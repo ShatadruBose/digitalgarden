@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"aliases":["Index Page"],"permalink":"/00-digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-01-15T08:36:41.452+05:30"}
+{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/00-digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-01-14T22:05:29.302+05:30"}
 ---
 
 Shatadru's Universe:-
