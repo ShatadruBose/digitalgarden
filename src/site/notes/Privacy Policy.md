@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/privacy-policy/","tags":["privacy"],"updated":"2025-01-14T22:21:58.654+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["privacy"],"aliases":null,"permalink":"/privacy-policy/","dgPassFrontmatter":true,"updated":"2025-01-14T22:21:58.654+05:30"}
 ---
 
 Created: 2025-01-14 22:02
