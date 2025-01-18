@@ -1,6 +1,7 @@
 ---
-{"podcast":"Sunday Suspense (Full Episodes)","title":"কালো গোলাপ","date":"2023-12-17","artwork":"https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ff2ad3fde948e1952d47b70fcf85ba21.jpg","url":"https://www.spreaker.com/episode/kalo-golapa--58043169","dg-publish":true,"dg-home":false,"tags":["podcast"],"aliases":null,"rating":"9.2","permalink":"/library/podcasts/sunday-suspense-full-episodes/","dgPassFrontmatter":true,"updated":"2025-01-18T15:05:13.029+05:30"}
+{"podcast":"Sunday Suspense (Full Episodes)","title":"কালো গোলাপ","date":"2023-12-17","artwork":"https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ff2ad3fde948e1952d47b70fcf85ba21.jpg","url":"https://www.spreaker.com/episode/kalo-golapa--58043169","dg-publish":true,"dg-home":false,"tags":["podcast"],"aliases":null,"rating":"9.2","permalink":"/library/podcasts/sunday-suspense-full-episodes/","dgPassFrontmatter":true,"updated":"2025-01-18T17:30:50.924+05:30"}
 ---
+
 
 Himadri Kishore Dasgupta's Kaalo Golap, based on the story Golap Photar Por on Sunday Suspense  
   
