@@ -3,9 +3,9 @@
 ---
 
 ``
-| File                                                                                                                                         | Podcast                         | Title                   | Cover                                                                                                                                     | Rating |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [[Library/Podcasts/Sunday Suspense (Full Episodes) - তারানাথ তান্ত্রিক - মুখ\|Sunday Suspense (Full Episodes) - তারানাথ তান্ত্রিক - মুখ]] | Sunday Suspense (Full Episodes) | তারানাথ তান্ত্রিক - মুখ | ![\|100](https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/830f12ab0fc22136026e8271809fb6cf.jpg) | 9.2    |
+| File                                                                                                               | Podcast                         | Title      | Cover                                                                                                                                     | Rating |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[Library/Podcasts/Sunday Suspense (Full Episodes) - কালো গোলাপ\|Sunday Suspense (Full Episodes) - কালো গোলাপ]] | Sunday Suspense (Full Episodes) | কালো গোলাপ | ![\|100](https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ff2ad3fde948e1952d47b70fcf85ba21.jpg) | 9.2    |
 
 { .block-language-dataview}
 
