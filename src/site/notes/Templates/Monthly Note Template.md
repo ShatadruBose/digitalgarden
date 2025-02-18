@@ -1,5 +1,5 @@
 ---
-{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["monthlyreviews"],"aliases":null,"permalink":"/templates/monthly-note-template/","dgPassFrontmatter":true,"updated":"2025-01-18T18:21:23.104+05:30"}
+{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["monthlyreviews"],"aliases":null,"permalink":"/templates/monthly-note-template/","dgPassFrontmatter":true,"updated":"2025-02-18T10:23:38.634+05:30"}
 ---
 
 
