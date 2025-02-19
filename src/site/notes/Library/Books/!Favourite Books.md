@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Favourite Books","Go To Favourite Books"],"permalink":"/library/books/favourite-books/","dgPassFrontmatter":true,"updated":"2025-01-15T22:23:38.760+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Favourite Books","Go To Favourite Books"],"permalink":"/library/books/favourite-books/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:42.889+05:30"}
 ---
 
 | File | Author | Cover | Pages | Genre | Rating |
@@ -10,4 +10,4 @@
 ---
 
 References:-
-1. [[!Digital Garden Home Page\|!Digital Garden Home Page]].
+1. [[_Digital Garden Home Page\|_Digital Garden Home Page]].

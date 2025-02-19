@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["privacy"],"aliases":null,"permalink":"/privacy-policy/","dgPassFrontmatter":true,"updated":"2025-01-15T22:06:49.532+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["privacy"],"aliases":null,"permalink":"/privacy-policy/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:43.439+05:30"}
 ---
 
 Created: 2025-01-14 22:02
@@ -132,4 +132,4 @@ Address: [Insert Address Here]
 
 ---
 References:-
-1. [[!Digital Garden Home Page\|!Digital Garden Home Page]].
+1. [[_Digital Garden Home Page\|_Digital Garden Home Page]].

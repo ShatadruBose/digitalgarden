@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore More Quotes","Quotes"],"permalink":"/notes/08-quotes-recources/quotes/","dgPassFrontmatter":true,"updated":"2025-01-15T22:06:49.508+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore More Quotes","Quotes"],"permalink":"/notes/08-quotes-recources/quotes/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:43.379+05:30"}
 ---
 
 Created: 2025-01-14 10:15
@@ -10,4 +10,4 @@ Created: 2025-01-14 10:15
 ---
 
 References:-
-1. [[!Digital Garden Home Page\|!Digital Garden Home Page]].
+1. [[_Digital Garden Home Page\|_Digital Garden Home Page]].
