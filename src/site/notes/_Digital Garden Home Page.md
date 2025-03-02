@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-02-19T18:21:45.989+05:30"}
+{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-03-02T12:46:26.628+05:30"}
 ---
 
 Shatadru's Universe:-
@@ -10,7 +10,7 @@ A world of thoughts, ideas, and inspiration.
 
 Navigation:-
 
-[[_Dashboard\|_Dashboard]].
+[[_Dashboard\|Dashboard]].
 
 [Friends](https://friendshipgarden-obsidian-shatadru.netlify.app).
 
