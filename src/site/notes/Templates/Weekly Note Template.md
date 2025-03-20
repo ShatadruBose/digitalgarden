@@ -1,5 +1,5 @@
 ---
-{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["weeklyreviews"],"aliases":null,"permalink":"/templates/weekly-note-template/","dgPassFrontmatter":true,"updated":"2025-01-18T18:12:53.844+05:30"}
+{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["weeklyreviews"],"aliases":null,"permalink":"/templates/weekly-note-template/","dgPassFrontmatter":true,"updated":"2025-03-20T08:32:00.637+05:30"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-### What Did I Set To Achive This Week?
+### What Did I Set To Achieve This Week?
 
 
 
