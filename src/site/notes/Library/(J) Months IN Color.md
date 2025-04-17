@@ -6,7 +6,7 @@ Created: 2025-02-18 09:11
 
 | File                                                               | Aliases                                                                | Enjoyment |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------- | --------- |
-| [[Notes/07 Journals (Calender)/Monthly Notes/2025-01\|2025-01]] | <ul><li>The one where final exam started with the year 2025.</li></ul> | 🟨        |
 | [[Templates/Monthly Note Template\|Monthly Note Template]]      | \-                                                                     | \-        |
+| [[Notes/07 Journals (Calender)/Monthly Notes/2025-01\|2025-01]] | <ul><li>The one where final exam started with the year 2025.</li></ul> | 🟨        |
 
 { .block-language-dataview}
