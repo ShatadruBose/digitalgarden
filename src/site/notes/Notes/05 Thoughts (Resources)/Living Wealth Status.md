@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-01-14T13:11:08.958+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-04-26T08:57:25.620+05:30"}
 ---
 
 100% = Elite Division.
@@ -7,7 +7,7 @@
 90% = Gold Division.
 80% = Silver Division.
 
-##Calculations:-<40 Points>.
+## Calculations:-<40 Points>.
 Housing:-<10 Points>.
 1. Proper Housing = 10 Points.
 
