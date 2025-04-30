@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-04-26T08:57:25.620+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-04-30T15:22:28.532+05:30"}
 ---
 
 100% = Elite Division.
@@ -7,21 +7,22 @@
 90% = Gold Division.
 80% = Silver Division.
 
-## Calculations:-<40 Points>.
-Housing:-<10 Points>.
+## Calculations:- (40 Points)
+
+Housing:- (10 Points).
 1. Proper Housing = 10 Points.
 
-Medical:-<10 Points>.
+Medical:- (10 Points).
 1. Insurance = 5 Points.
 2. Branded Medicines = 3 Points.
 3. Immediate Money = 2 Points.
 
-Foods:-<10 Points>
+Foods:- (10 Points).
 1. Body Status = 5 Points.
 2. Clean Water = 3 Points.
 3. Branded Foods = 2 Points.
 
-Entertainment:-<10 Points>.
+Entertainment:-(10 Points).
 1. Internet = 5 Points, (Basic=2, Speed=3, Multi=5).
 2. Computer = 2 Points.
 3. No Financial Stress = 2 Points.
