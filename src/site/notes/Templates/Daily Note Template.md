@@ -1,5 +1,5 @@
 ---
-{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["dailyreviews"],"aliases":null,"meditation":null,"exercise":null,"sleep_quality":null,"mood":null,"energy_level":null,"weather":null,"permalink":"/templates/daily-note-template/","dgPassFrontmatter":true,"updated":"2025-04-30T15:28:48.663+05:30"}
+{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["dailyreviews"],"aliases":null,"meditation":null,"exercise":null,"sleep_quality":null,"mood":null,"energy_level":null,"weather":null,"permalink":"/templates/daily-note-template/","dgPassFrontmatter":true,"updated":"2025-05-01T22:55:26.974+05:30"}
 ---
 
 # 📅 Info
@@ -31,6 +31,8 @@
 
 # 🧠 Morning Thoughts
 
+- What happened? 
+
 - What are my goals for today?
 1) 
 
@@ -44,6 +46,8 @@
 
 # 🌤️ Midday Check-in
 
+- What happened? 
+
 - How is the day progressing?
 1) 
 
@@ -56,6 +60,8 @@
 ---
 
 # 🌙 Evening Reflection
+
+- What happened? 
 
 - What went well today?
 1) 
