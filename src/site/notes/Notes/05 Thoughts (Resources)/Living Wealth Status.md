@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-04-30T15:22:28.532+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-05-02T12:25:22.408+05:30"}
 ---
 
 100% = Elite Division.
