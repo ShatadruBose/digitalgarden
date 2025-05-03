@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":null,"tags":["journalpointer"],"permalink":"/notes/07-journals-calender/index/index-2025/","dgPassFrontmatter":true,"updated":"2025-04-30T22:58:45.033+05:30"}
+{"dg-publish":true,"dg-home":null,"aliases":null,"tags":["journalpointer"],"permalink":"/notes/07-journals-calender/index/index-2025/","dgPassFrontmatter":true,"updated":"2025-04-30T23:18:21.340+05:30"}
 ---
 
 # INDEX
