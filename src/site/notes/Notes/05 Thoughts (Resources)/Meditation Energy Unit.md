@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/meditation-energy-unit/","dgPassFrontmatter":true,"updated":"2025-05-02T12:30:53.686+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/meditation-energy-unit/","dgPassFrontmatter":true,"updated":"2025-05-02T12:25:27.152+05:30"}
 ---
 
 ### **MEU Base Principle**
