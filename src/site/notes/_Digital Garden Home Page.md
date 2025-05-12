@@ -1,38 +1,29 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-01T22:42:17.901+05:30"}
+{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-11T16:36:08.993+05:30"}
 ---
 
-Shatadru's Universe:-
+# Shatadru's Universe:-
 
 A world of thoughts, ideas, and inspiration.
 
 ---
 
-Navigation:-
+#### Navigation:-
 
-[[_Dashboard\|Dashboard]].
-
-[Friends](https://friendshipgarden-obsidian-shatadru.netlify.app).
-
-[[Notes/07 Journals (Calender)/Journal\|Journal]].
-
-[[Notes/05 Thoughts (Resources)/!Thoughts\|Thoughts]].
-
-Ideas.
-
-Blogs.
-
-[[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
-
-[[About Me\|About Me]].
-
-Contact.
-
-[[Privacy Policy\|Privacy Policy]].
+1) [[_Dashboard\|Dashboard]].
+2) [Friends](https://friendshipgarden-obsidian-shatadru.netlify.app).
+3) [[Notes/07 Journals (Calender)/Journal\|Journal]].
+4) [[Notes/05 Thoughts (Resources)/!Thoughts\|Thoughts]].
+5) Ideas.
+6) Blogs.
+7) [[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
+8) [[About Me\|About Me]].
+9) Contact.
+10) [[Privacy Policy\|Privacy Policy]].
 
 ---
 
-Welcome to Shatadru's Universe!
+#### Welcome to Shatadru's Universe!
 
 Here, you'll find a collection of my musings, creative ideas, insightful blogs, and everything that sparks my curiosity. Dive in and explore!
 
@@ -40,9 +31,9 @@ Here, you'll find a collection of my musings, creative ideas, insightful blogs, 
 
 ---
 
-Featured Sections
+#### Featured Sections
 
-🧠 Thoughts
+##### 🧠 Thoughts
 
 Quick reflections and observations about life, people, and the world around us.
 Latest Thought: "The smallest ideas can spark the biggest changes."
@@ -51,7 +42,7 @@ Latest Thought: "The smallest ideas can spark the biggest changes."
 
 ---
 
-💡 Ideas
+##### 💡 Ideas
 
 A hub for my brainstorming, projects, and innovative concepts.
 Highlight: The Ultimate Team Project.
@@ -60,7 +51,7 @@ Discover Ideas →
 
 ---
 
-✍️ Blogs
+##### ✍️ Blogs
 
 In-depth articles and stories about topics I’m passionate about.
 Latest Blog: "Why Minecraft is the Ultimate Sandbox Game."
@@ -69,7 +60,7 @@ Read Blogs →
 
 ---
 
-✨ Quotes
+##### ✨ Quotes
 
 A collection of inspiring quotes from me and my friends.
 
