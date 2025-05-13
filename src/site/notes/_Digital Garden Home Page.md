@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-11T16:36:08.993+05:30"}
+{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-13T15:05:02.412+05:30"}
 ---
 
 # Shatadru's Universe:-
@@ -10,16 +10,17 @@ A world of thoughts, ideas, and inspiration.
 
 #### Navigation:-
 
-1) [[_Dashboard\|Dashboard]].
+1) [[Dashboard\|Dashboard]].
 2) [Friends](https://friendshipgarden-obsidian-shatadru.netlify.app).
 3) [[Notes/07 Journals (Calender)/Journal\|Journal]].
 4) [[Notes/05 Thoughts (Resources)/!Thoughts\|Thoughts]].
 5) Ideas.
-6) Blogs.
-7) [[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
-8) [[About Me\|About Me]].
-9) Contact.
-10) [[Privacy Policy\|Privacy Policy]].
+6) [[Apps\|Apps]].
+7) Blogs.
+8) [[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
+9) [[About Me\|About Me]].
+10) Contact.
+11) [[Privacy Policy\|Privacy Policy]].
 
 ---
 
@@ -48,6 +49,14 @@ A hub for my brainstorming, projects, and innovative concepts.
 Highlight: The Ultimate Team Project.
 
 Discover Ideas →
+
+---
+
+##### 🌐 Apps
+
+All my apps are listed here.
+
+[[Apps\|Apps]] →
 
 ---
 
