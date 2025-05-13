@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-13T18:08:03.755+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-13T18:14:48.477+05:30"}
 ---
 
 # My Apps
@@ -63,3 +63,15 @@
 ## STEM Education SB
 
 1) [Educational Garden](https://educationalgardensb.netlify.app/).
+2) [STEM Class Website](https://sites.google.com/view/stemedusb/home).
+3) [Explore STEM](https://explorestemsb.netlify.app/).
+
+---
+## Universal AI
+
+1) [Geminova](https://geminisb.netlify.app/).
+
+---
+## Vedanta Flow
+
+1) [Digital Veda](https://spiritualsb.netlify.app/).
