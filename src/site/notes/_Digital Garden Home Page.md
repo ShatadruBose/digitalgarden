@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-13T15:05:02.412+05:30"}
+{"dg-publish":true,"dg-home":true,"tags":["home","index","gardenEntry"],"aliases":["Index Page"],"permalink":"/digital-garden-home-page/","dgPassFrontmatter":true,"updated":"2025-05-13T18:36:03.925+05:30"}
 ---
 
 # Shatadru's Universe:-
@@ -16,11 +16,12 @@ A world of thoughts, ideas, and inspiration.
 4) [[Notes/05 Thoughts (Resources)/!Thoughts\|Thoughts]].
 5) Ideas.
 6) [[Apps\|Apps]].
-7) Blogs.
-8) [[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
-9) [[About Me\|About Me]].
-10) Contact.
-11) [[Privacy Policy\|Privacy Policy]].
+7) [[Profiles\|Profiles]].
+8) Blogs.
+9) [[Notes/08 Quotes (Recources)/!Quotes\|Quotes]].
+10) [[About Me\|About Me]].
+11) Contact.
+12) [[Privacy Policy\|Privacy Policy]].
 
 ---
 
