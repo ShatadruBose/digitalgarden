@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-13T18:14:48.477+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-16T17:48:00.539+05:30"}
 ---
 
 # My Apps
@@ -37,6 +37,7 @@
 ## Happy Life
 
 1) [Daily Joy](https://happymorningsb.netlify.app/).
+2) [Dopamine Button](https://dopaminebuttonsb.netlify.app/).
 
 ---
 ## Italiano Artist
@@ -52,6 +53,12 @@
 ## Mathematical World
 
 1) [Mathematical World](https://mathematicalstatssb.netlify.app/).
+
+---
+
+## Minecraft Player
+
+1) [Minecraft Web Launcher](https://theminecraftplayer-sb.github.io/mc-web/).
 
 ---
 ## Search Hub
