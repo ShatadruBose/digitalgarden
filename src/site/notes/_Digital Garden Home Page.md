@@ -29,7 +29,7 @@ A world of thoughts, ideas, and inspiration.
 
 Here, you'll find a collection of my musings, creative ideas, insightful blogs, and everything that sparks my curiosity. Dive in and explore!
 
-[[Notes/Grocery List\|My Grocery List]].
+[[Grocery List\|My Grocery List]].
 
 ---
 

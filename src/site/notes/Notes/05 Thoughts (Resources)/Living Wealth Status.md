@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-05-09T10:41:45.505+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/living-wealth-status/","dgPassFrontmatter":true,"updated":"2025-05-19T10:27:31.082+05:30"}
 ---
+
 
 # **Living Wealth Status**
 

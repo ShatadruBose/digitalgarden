@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/meditation-energy-unit/","dgPassFrontmatter":true,"updated":"2025-05-09T10:40:20.387+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/meditation-energy-unit/","dgPassFrontmatter":true,"updated":"2025-05-19T10:27:31.097+05:30"}
 ---
+
 
 # **Meditation Energy Unit**
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/irrational-randomness/","dgPassFrontmatter":true,"updated":"2025-05-09T10:53:04.897+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"aliases":null,"permalink":"/notes/05-thoughts-resources/irrational-randomness/","dgPassFrontmatter":true,"updated":"2025-05-19T10:27:31.092+05:30"}
 ---
+
 
 # **Irrational Randomness: A Hybrid Stochastic-Analytical Decision System**
 
