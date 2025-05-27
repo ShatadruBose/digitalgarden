@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-24T22:58:58.129+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-27T22:00:15.364+05:30"}
 ---
 
 # My Apps
@@ -61,6 +61,11 @@
 
 ---
 
+## Michelin Guide
+
+1) [Michelin Guide](https://michelinsb.netlify.app/).
+
+---
 ## Minecraft Player
 
 1) [Minecraft Web Launcher](https://theminecraftplayer-sb.github.io/mc-web/).
