@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-05-27T22:00:15.364+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-15T14:23:48.241+05:30"}
 ---
 
 # My Apps
 
-## Alien God
-
-1) [Alien Garden](https://aliengardensb.netlify.app)
-
----
 ## Apps Hub
 
 1) [Calculator](https://calculatorappsb.netlify.app/).
@@ -61,11 +56,6 @@
 
 ---
 
-## Michelin Guide
-
-1) [Michelin Guide](https://michelinsb.netlify.app/).
-
----
 ## Minecraft Player
 
 1) [Minecraft Web Launcher](https://theminecraftplayer-sb.github.io/mc-web/).
@@ -75,6 +65,16 @@
 
 1) [Nazo Lite](https://searchsb.netlify.app/).
 2) [G-Search SB](https://cse.google.com/cse?cx=76ac96ad67c524391#gsc.tab=0).
+
+---
+## Schoolboy Runaway
+
+1) [SchoolBoy Runaway](https://schoolboyrunawaysb.netlify.app/).
+
+---
+## Source Reference
+
+1) [Reference Garden](https://referencegardensb.netlify.app/).
 
 ---
 ## STEM Education SB
