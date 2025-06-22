@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-15T14:23:48.241+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-22T21:11:36.991+05:30"}
 ---
 
 # My Apps
@@ -61,6 +61,12 @@
 1) [Minecraft Web Launcher](https://theminecraftplayer-sb.github.io/mc-web/).
 
 ---
+## Musical Realm
+
+1) [Aether Tune](https://musicalplayersb.netlify.app/).
+2) [Musical Garden](https://musicalgardensb.netlify.app/).
+
+---
 ## Search Hub
 
 1) [Nazo Lite](https://searchsb.netlify.app/).
@@ -92,3 +98,8 @@
 ## Vedanta Flow
 
 1) [Digital Veda](https://spiritualsb.netlify.app/).
+
+---
+## Zettelkasten Vault
+
+1) [Zettelkasten Vault](https://zettelgardensb.netlify.app/).
