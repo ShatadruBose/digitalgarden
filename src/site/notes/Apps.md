@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-22T21:11:36.991+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-29T18:15:13.004+05:30"}
 ---
 
 # My Apps
@@ -59,6 +59,11 @@
 ## Minecraft Player
 
 1) [Minecraft Web Launcher](https://theminecraftplayer-sb.github.io/mc-web/).
+
+---
+## Multiversal TV
+
+1) [Shatadru TV](https://shatadrubosetv.netlify.app/).
 
 ---
 ## Musical Realm
