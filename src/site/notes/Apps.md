@@ -1,13 +1,23 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-06-29T18:15:13.004+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-10-09T19:05:57.441+05:30"}
 ---
 
 # My Apps
 
+## Apple Macintosh
+
+1) [macOS Desktop](https://macos-desktop-interf-gcv3.bolt.host/).
+
+---
 ## Apps Hub
 
 1) [Calculator](https://calculatorappsb.netlify.app/).
 2) [Calendar](https://calendarappsb.netlify.app/).
+
+---
+## Cube Master
+
+1) [Rubik's Cube Simulation](https://interactive-rubik-s-rmsg.bolt.host/).
 
 ---
 ## Earth DB
@@ -38,11 +48,13 @@
 
 1) [Daily Joy](https://happymorningsb.netlify.app/).
 2) [Dopamine Button](https://dopaminebuttonsb.netlify.app/).
+3) [Conway's Game of Life](https://lifegamesb.netlify.app/).
 
 ---
 ## Italiano Artist
 
 1) [The Italiano Artist](https://artisticsb.netlify.app/).
+2) [Rolex](https://rolexsb.netlify.app/).
 
 ---
 ## Legaverse
@@ -53,6 +65,7 @@
 ## Mathematical World
 
 1) [Mathematical World](https://mathematicalstatssb.netlify.app/).
+2) [Apple Calculator](https://cute-choux-96a79d.netlify.app/).
 
 ---
 
@@ -72,10 +85,26 @@
 2) [Musical Garden](https://musicalgardensb.netlify.app/).
 
 ---
+## Pixel Studios
+
+1) [Minecraft Clone Web](https://new-chat-0jt8.bolt.host/).
+
+---
+## Pokémon Collector
+
+1) [Pokémon Card Collector Platform](https://pokemonsb.netlify.app/).
+
+---
+## Programming Dev
+
+1) [Shatadru IDE](https://new-chat-k9q1.bolt.host/).
+
+---
 ## Search Hub
 
-1) [Nazo Lite](https://searchsb.netlify.app/).
-2) [G-Search SB](https://cse.google.com/cse?cx=76ac96ad67c524391#gsc.tab=0).
+1) [Sova AI](https://magicsearchsb.netlify.app/).
+2) [Nazo Lite](https://searchsb.netlify.app/).
+3) [G-Search SB](https://cse.google.com/cse?cx=76ac96ad67c524391#gsc.tab=0).
 
 ---
 ## Schoolboy Runaway
@@ -92,7 +121,8 @@
 
 1) [Educational Garden](https://educationalgardensb.netlify.app/).
 2) [STEM Class Website](https://sites.google.com/view/stemedusb/home).
-3) [Explore STEM](https://explorestemsb.netlify.app/).
+3) [STEM Elite](https://explorestemsb.netlify.app/).
+4) [Interactive Fluid Dynamics Simulation](https://fluidsimsb.netlify.app/).
 
 ---
 ## Universal AI
