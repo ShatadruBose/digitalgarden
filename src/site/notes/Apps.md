@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-10-09T19:05:57.441+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2025-10-09T22:10:16.494+05:30"}
 ---
 
 # My Apps
@@ -35,6 +35,7 @@
 ## Government Of Shatadru
 
 1) [Government Garden](https://governmentgardensb.netlify.app/).
+2) [Shatadia Royal Government Portal](https://governmentsb.netlify.app/).
 
 ---
 ## Hand Cricket Player
