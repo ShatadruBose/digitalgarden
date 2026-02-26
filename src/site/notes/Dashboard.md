@@ -60,7 +60,7 @@
 - 🔖 Tagged:  favorite 
  [object Promise]
 - 〽️ Stats
-	-  File Count: 272
+	-  File Count: 298
 	-  Personal recipes: 
 
 ---
