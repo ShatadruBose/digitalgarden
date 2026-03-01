@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/slytherin-x/","dgPassFrontmatter":true,"updated":"2026-02-28T18:15:27.272+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/slytherin-x/","dgPassFrontmatter":true,"updated":"2026-03-01T10:39:46.462+05:30"}
 ---
 
 # 🐍⚡ **SLYTHERIN X**
@@ -21,7 +21,7 @@
 
 ## 🧬 FORGED FROM THE ESSENCES OF
 
-- 🐍 **Salazar Slytherin** (_Silzer – The Founder_)
+- 🐍 **Salazar Slytherin** (_The Founder_)
     
 - 🐍 **Severus Snape**
     
