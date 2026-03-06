@@ -1,5 +1,5 @@
 ---
-{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["#dailyreviews"],"aliases":null,"meditation":null,"exercise":null,"sleep_quality":null,"mood":null,"energy_level":null,"weather":null,"permalink":"/templates/daily-note-template/","dgPassFrontmatter":true,"updated":"2025-05-16T12:35:55.848+05:30"}
+{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["dailyreviews"],"aliases":null,"meditation":null,"exercise":null,"sleep_quality":null,"mood":null,"energy_level":null,"weather":null,"permalink":"/templates/daily-note-template/","dgPassFrontmatter":true,"updated":"2025-05-16T12:35:55.848+05:30"}
 ---
 
 # 📅 Info
