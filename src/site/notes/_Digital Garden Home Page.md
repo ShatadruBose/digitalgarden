@@ -100,9 +100,9 @@ Go To Movies →
 
 Dive into the world of knowledge and storytelling with my book database, featuring my reading list, summaries, and thoughts.
 
-[[Library/Books/!Favourite Books\|Go To Favourite Books]] →
+[[Library/Books/01 Favourite Books/!Favourite Books\|Go To Favourite Books]] →
 
-[[Library/Books/!To Read\|Go To Wanted Books]] →
+[[Library/Books/02 To Read/!To Read\|Go To Wanted Books]] →
 
 ---
 
