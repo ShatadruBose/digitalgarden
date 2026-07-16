@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/girl-teeth-touch-magic/","dgPassFrontmatter":true,"updated":"2026-03-05T20:26:46.257+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/girl-teeth-touch-magic/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:26.441+05:30"}
 ---
 
 # Dentara Mystica

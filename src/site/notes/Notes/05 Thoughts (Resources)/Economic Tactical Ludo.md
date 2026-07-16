@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/economic-tactical-ludo/","dgPassFrontmatter":true,"updated":"2026-03-04T21:39:58.040+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/economic-tactical-ludo/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:55.229+05:30"}
 ---
 
 # 🎲 **Ludo by Shatadru Bose**

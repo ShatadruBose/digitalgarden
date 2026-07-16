@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/minecraft-lore/","dgPassFrontmatter":true,"updated":"2026-02-28T13:42:33.317+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/minecraft-lore/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:09.377+05:30"}
 ---
 
 # 🌍 I. THE OVERWORLD — The Era of Absolute Rule
