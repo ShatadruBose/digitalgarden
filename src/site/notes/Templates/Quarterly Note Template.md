@@ -1,5 +1,5 @@
 ---
-{"title":"Quarterly Journal - Q1 2025","quarter":"Q1","year":2025,"created":"<% tp.date.now(\"YYYY-MM-DD\") %>","tags":["journal","quarterly","review"],"dg-publish":true,"dg-home":null,"permalink":"/templates/quarterly-note-template/","dgPassFrontmatter":true,"updated":"2025-04-30T13:00:06.764+05:30"}
+{"title":"Quarterly Journal - Q1 2025","quarter":"Q1","year":2025,"created":"<% tp.date.now(\"YYYY-MM-DD\") %>","tags":["journal","quarterly","review"],"dg-publish":true,"dg-home":null,"permalink":"/templates/quarterly-note-template/","dgPassFrontmatter":true,"updated":"2025-04-30T13:05:34.994+05:30"}
 ---
 
 # Info

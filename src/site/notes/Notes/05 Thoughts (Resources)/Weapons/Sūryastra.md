@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/suryastra/","dgPassFrontmatter":true,"updated":"2026-03-05T19:39:53.165+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/suryastra/","dgPassFrontmatter":true,"updated":"2026-03-05T19:53:40.417+05:30"}
 ---
 
 # ☀️ **Sūryastra – The Solar God Arrow**
