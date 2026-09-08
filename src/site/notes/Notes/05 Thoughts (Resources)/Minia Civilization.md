@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/minia-civilization/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:15.635+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/minia-civilization/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:22.854+05:30"}
 ---
 
 # The Miniature Civilization Beneath The Table

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/rgbx/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:59.081+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/rgbx/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:07.508+05:30"}
 ---
 
 # RGBX: An 18-Digit Hexadecimal Color Representation Format

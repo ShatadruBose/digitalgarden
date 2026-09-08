@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-world-of-the-great-glass/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:30.180+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-world-of-the-great-glass/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:39.771+05:30"}
 ---
 
 # The World of the Great Glass: Water Above, Water Below, and the Life of Icycol

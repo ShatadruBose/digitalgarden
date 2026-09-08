@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/bio-life/","dgPassFrontmatter":true,"updated":"2026-07-16T16:06:03.611+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/bio-life/","dgPassFrontmatter":true,"updated":"2026-07-16T16:06:12.707+05:30"}
 ---
 
 # BioLife

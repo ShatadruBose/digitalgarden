@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/my-name/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:26.599+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/my-name/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:35.474+05:30"}
 ---
 
 # My Names

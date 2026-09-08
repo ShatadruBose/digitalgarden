@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/me-with-barbie/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:36.897+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/me-with-barbie/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:44.675+05:30"}
 ---
 
 # Barbie: My Daughter

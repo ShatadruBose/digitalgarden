@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/shatastra/","dgPassFrontmatter":true,"updated":"2026-03-04T20:25:06.356+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/shatastra/","dgPassFrontmatter":true,"updated":"2026-03-04T20:25:47.283+05:30"}
 ---
 
 # 🏹 Shatastra — The Absolute Arrow

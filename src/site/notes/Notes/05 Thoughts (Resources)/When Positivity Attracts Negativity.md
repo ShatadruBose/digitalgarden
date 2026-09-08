@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/when-positivity-attracts-negativity/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:44.315+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/when-positivity-attracts-negativity/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:54.578+05:30"}
 ---
 
 # When Positivity Attracts Negativity: A Paradox of Energy and Human Experience

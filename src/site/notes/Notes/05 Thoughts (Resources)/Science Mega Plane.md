@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/science-mega-plane/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:38.828+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/science-mega-plane/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:48.988+05:30"}
 ---
 
 # A-10X Science Mega Plane

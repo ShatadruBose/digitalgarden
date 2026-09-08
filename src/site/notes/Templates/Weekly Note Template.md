@@ -1,5 +1,5 @@
 ---
-{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["weeklyreviews"],"aliases":null,"permalink":"/templates/weekly-note-template/","dgPassFrontmatter":true,"updated":"2025-03-20T08:45:56.251+05:30"}
+{"location":null,"enjoyment":null,"why":null,"date":null,"dg-publish":true,"dg-home":null,"tags":["weeklyreviews"],"aliases":null,"permalink":"/templates/weekly-note-template/","dgPassFrontmatter":true,"updated":"2025-03-20T08:50:39.771+05:30"}
 ---
 
 

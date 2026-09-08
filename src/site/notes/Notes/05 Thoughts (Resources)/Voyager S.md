@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/voyager-s/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:40.216+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/voyager-s/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:49.517+05:30"}
 ---
 
 # Voyager S

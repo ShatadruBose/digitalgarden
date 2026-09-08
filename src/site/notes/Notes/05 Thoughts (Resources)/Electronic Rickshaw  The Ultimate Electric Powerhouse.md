@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/electronic-rickshaw-the-ultimate-electric-powerhouse/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:01.392+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/electronic-rickshaw-the-ultimate-electric-powerhouse/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:10.378+05:30"}
 ---
 
 # ⚡ Electronic Rickshaw: The Ultimate Electric Powerhouse (Fictional Concept)

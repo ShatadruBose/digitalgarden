@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-world-cup-ownership/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:19.464+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-world-cup-ownership/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:29.453+05:30"}
 ---
 
 # The World Cup as a Shared Symbol of Excellence

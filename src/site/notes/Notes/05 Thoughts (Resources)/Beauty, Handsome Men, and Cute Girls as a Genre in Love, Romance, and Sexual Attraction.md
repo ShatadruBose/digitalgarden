@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/beauty-handsome-men-and-cute-girls-as-a-genre-in-love-romance-and-sexual-attraction/","dgPassFrontmatter":true,"updated":"2026-07-16T16:05:57.553+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/beauty-handsome-men-and-cute-girls-as-a-genre-in-love-romance-and-sexual-attraction/","dgPassFrontmatter":true,"updated":"2026-07-16T16:06:07.980+05:30"}
 ---
 
 # Beauty, Handsome Men, and Cute Girls as a Genre in Love, Romance, and Sexual Attraction

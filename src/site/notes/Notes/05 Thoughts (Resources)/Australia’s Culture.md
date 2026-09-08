@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/australia-s-culture/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:30.500+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/australia-s-culture/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:42.523+05:30"}
 ---
 
 # Australia’s Culture: A World That Feels Upside Down

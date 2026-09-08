@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/door-os/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:40.063+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/door-os/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:50.169+05:30"}
 ---
 
 # Door OS: A Concept Paper on the Operating System of the Door

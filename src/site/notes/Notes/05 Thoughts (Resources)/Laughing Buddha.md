@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/laughing-buddha/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:04.908+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/laughing-buddha/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:13.689+05:30"}
 ---
 
 # Laughing Buddha: History, Symbolism, and All Major Forms

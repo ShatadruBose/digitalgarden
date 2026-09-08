@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-scientific-alphabet/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:03.674+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-scientific-alphabet/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:11.817+05:30"}
 ---
 
 # The Scientific Alphabet

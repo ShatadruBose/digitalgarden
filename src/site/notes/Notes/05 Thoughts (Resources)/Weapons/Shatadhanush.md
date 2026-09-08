@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/shatadhanush/","dgPassFrontmatter":true,"updated":"2026-03-04T20:53:55.335+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/shatadhanush/","dgPassFrontmatter":true,"updated":"2026-03-04T20:54:34.977+05:30"}
 ---
 
 # 🏹 SHATADHANUSH

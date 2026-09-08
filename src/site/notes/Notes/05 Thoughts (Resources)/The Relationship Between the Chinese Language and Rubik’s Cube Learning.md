@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-relationship-between-the-chinese-language-and-rubik-s-cube-learning/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:56.276+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-relationship-between-the-chinese-language-and-rubik-s-cube-learning/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:04.265+05:30"}
 ---
 
 # The Relationship Between the Chinese Language and Rubik’s Cube Learning: A Pattern-Recognition Perspective

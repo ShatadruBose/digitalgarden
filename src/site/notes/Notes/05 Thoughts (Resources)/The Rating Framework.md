@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-rating-framework/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:39.880+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-rating-framework/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:49.280+05:30"}
 ---
 
 # The OVR–ELO–POT–CON–EXP–FORM–CLUTCH–STREAK Rating Framework

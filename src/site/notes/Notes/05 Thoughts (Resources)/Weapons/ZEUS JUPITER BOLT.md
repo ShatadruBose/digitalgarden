@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/zeus-jupiter-bolt/","dgPassFrontmatter":true,"updated":"2026-03-04T20:35:39.859+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/zeus-jupiter-bolt/","dgPassFrontmatter":true,"updated":"2026-03-04T20:36:21.194+05:30"}
 ---
 
 # ⚡ **ZEUS JUPITER BOLT — The Mega Lightning Arrow**

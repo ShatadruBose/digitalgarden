@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/rain-on-a-slanted-wire/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:51.147+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/rain-on-a-slanted-wire/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:59.597+05:30"}
 ---
 
 # Rain on a Slanted Wire: The Physics and Beauty of Water Droplets Gliding Along a Wire

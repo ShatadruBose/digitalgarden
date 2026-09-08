@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-guinea-name-family-and-the-guinea-currency-and-the-guinea-land/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:17.707+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-guinea-name-family-and-the-guinea-currency-and-the-guinea-land/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:26.219+05:30"}
 ---
 
 # The “Guinea” Name Family and the Guinea Currency

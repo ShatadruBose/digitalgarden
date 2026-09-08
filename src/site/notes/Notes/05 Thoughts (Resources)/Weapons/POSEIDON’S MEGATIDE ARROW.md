@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/poseidon-s-megatide-arrow/","dgPassFrontmatter":true,"updated":"2026-03-04T20:29:21.896+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/poseidon-s-megatide-arrow/","dgPassFrontmatter":true,"updated":"2026-03-04T20:29:59.765+05:30"}
 ---
 
 # 🌊 **POSEIDON’S MEGATIDE ARROW**

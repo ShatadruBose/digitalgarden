@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sleep-fc-and-the-fifa-world-cup-2026/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:54.259+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sleep-fc-and-the-fifa-world-cup-2026/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:01.650+05:30"}
 ---
 
 # Sleep FC and the FIFA World Cup 2026 Night Watch Effect

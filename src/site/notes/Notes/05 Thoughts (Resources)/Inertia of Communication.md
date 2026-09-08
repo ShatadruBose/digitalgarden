@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/inertia-of-communication/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:50.635+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/inertia-of-communication/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:57.707+05:30"}
 ---
 
 # Inertia of Communication

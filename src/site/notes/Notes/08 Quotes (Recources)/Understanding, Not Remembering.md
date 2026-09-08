@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/08-quotes-recources/understanding-not-remembering/","dgPassFrontmatter":true,"updated":"2025-05-19T10:27:31.448+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/08-quotes-recources/understanding-not-remembering/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:23.144+05:30"}
 ---
 
 

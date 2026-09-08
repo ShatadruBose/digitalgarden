@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/vayushakti-mahastra/","dgPassFrontmatter":true,"updated":"2026-03-04T21:37:06.434+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/vayushakti-mahastra/","dgPassFrontmatter":true,"updated":"2026-03-04T21:37:46.877+05:30"}
 ---
 
 # 🌪️ **Vayushakti Mahāstra**

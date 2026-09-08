@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/distance-meter-dm-and-displacemeter-sm/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:29.867+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/distance-meter-dm-and-displacemeter-sm/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:39.608+05:30"}
 ---
 
 # Distance Meter $DM$ and Displacemeter $SM$: Two Proposed Cumulative Motion Quantities

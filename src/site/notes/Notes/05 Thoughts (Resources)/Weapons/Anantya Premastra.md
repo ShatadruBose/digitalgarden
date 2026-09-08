@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/anantya-premastra/","dgPassFrontmatter":true,"updated":"2026-02-28T18:06:03.659+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/anantya-premastra/","dgPassFrontmatter":true,"updated":"2026-02-28T18:06:36.345+05:30"}
 ---
 
 ## 💘 **Divine Arrow of Eternal Union** 💘

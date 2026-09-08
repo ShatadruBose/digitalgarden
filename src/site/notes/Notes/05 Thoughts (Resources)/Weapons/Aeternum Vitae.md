@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/aeternum-vitae/","dgPassFrontmatter":true,"updated":"2026-02-28T18:10:43.680+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/aeternum-vitae/","dgPassFrontmatter":true,"updated":"2026-02-28T18:10:53.450+05:30"}
 ---
 
 ## 🕊️ The Divine Life Arrow — **Aeternum Vitae**

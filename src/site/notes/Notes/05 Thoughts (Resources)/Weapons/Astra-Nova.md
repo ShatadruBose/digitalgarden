@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/astra-nova/","dgPassFrontmatter":true,"updated":"2026-03-04T20:41:42.007+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/astra-nova/","dgPassFrontmatter":true,"updated":"2026-03-04T20:42:22.373+05:30"}
 ---
 
 # 🌌 **Astra-Nova: The Mega Space Arrow**

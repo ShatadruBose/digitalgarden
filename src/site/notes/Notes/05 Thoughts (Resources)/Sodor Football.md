@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sodor-football/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:01.392+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sodor-football/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:09.107+05:30"}
 ---
 
 # Sodor Football: An Isolated Game on a Railway Island

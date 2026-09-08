@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/emberfall/","dgPassFrontmatter":true,"updated":"2026-03-04T20:30:57.647+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/emberfall/","dgPassFrontmatter":true,"updated":"2026-03-04T20:31:35.223+05:30"}
 ---
 
 # 🔥 **EMBERFALL – The Mega Fire Arrow**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/x-organisation/","dgPassFrontmatter":true,"updated":"2026-07-16T16:03:04.412+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/x-organisation/","dgPassFrontmatter":true,"updated":"2026-07-16T16:03:15.717+05:30"}
 ---
 
 # X Organisation

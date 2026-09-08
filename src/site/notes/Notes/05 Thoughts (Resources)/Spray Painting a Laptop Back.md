@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/spray-painting-a-laptop-back/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:11.350+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/spray-painting-a-laptop-back/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:19.333+05:30"}
 ---
 
 # Spray Painting a Laptop Back

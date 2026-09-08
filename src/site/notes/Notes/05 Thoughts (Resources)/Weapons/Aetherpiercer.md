@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/aetherpiercer/","dgPassFrontmatter":true,"updated":"2026-03-04T20:26:51.390+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/aetherpiercer/","dgPassFrontmatter":true,"updated":"2026-03-04T20:27:29.735+05:30"}
 ---
 
 # 🏹 **Aetherpiercer – The Arcane Phase Arrow**

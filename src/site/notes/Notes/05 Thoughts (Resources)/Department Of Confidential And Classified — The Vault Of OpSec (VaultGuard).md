@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/department-of-confidential-and-classified-the-vault-of-op-sec-vault-guard/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:22.223+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/department-of-confidential-and-classified-the-vault-of-op-sec-vault-guard/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:29.087+05:30"}
 ---
 
 # VaultGuard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/shatadium/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:46.415+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/shatadium/","dgPassFrontmatter":true,"updated":"2026-07-16T16:00:54.295+05:30"}
 ---
 
 # SHATADIUM — The Prime Omni-Metal

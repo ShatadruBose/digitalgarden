@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/05-thoughts-resources/weapons/gaia-titan/","dgPassFrontmatter":true,"updated":"2026-03-04T20:37:32.103+05:30"}
+{"dg-publish":true,"permalink":"/notes/05-thoughts-resources/weapons/gaia-titan/","dgPassFrontmatter":true,"updated":"2026-03-04T20:38:09.940+05:30"}
 ---
 
 # 🌍 **GAIA TITAN – The Mega Earth Arrow**

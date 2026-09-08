@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-scottish-evening/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:21.226+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-scottish-evening/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:32.482+05:30"}
 ---
 
 # A Scottish Evening: Whisky, Ice Cream, Music, Football, and Macbeth

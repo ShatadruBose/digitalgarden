@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/slytherin-x/","dgPassFrontmatter":true,"updated":"2026-03-01T10:39:46.462+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/slytherin-x/","dgPassFrontmatter":true,"updated":"2026-03-01T10:40:28.879+05:30"}
 ---
 
 # 🐍⚡ **SLYTHERIN X**

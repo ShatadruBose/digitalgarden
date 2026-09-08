@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/why-lighter-jelly-roll-and-carin-leon-is-the-perfect-song-for-the-american-truck-simulator-soccer-section/","dgPassFrontmatter":true,"updated":"2026-07-16T16:02:51.949+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/why-lighter-jelly-roll-and-carin-leon-is-the-perfect-song-for-the-american-truck-simulator-soccer-section/","dgPassFrontmatter":true,"updated":"2026-07-16T16:03:00.471+05:30"}
 ---
 
 # 🎵 Why **"Lighter" – Jelly Roll & Carín León** is the Perfect Song for the American Truck Simulator Soccer Section

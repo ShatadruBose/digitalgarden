@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore Thoughts","Thoughts"],"permalink":"/notes/05-thoughts-resources/thoughts/","dgPassFrontmatter":true,"updated":"2025-05-19T10:27:31.063+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore Thoughts","Thoughts"],"permalink":"/notes/05-thoughts-resources/thoughts/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:17.944+05:30"}
 ---
 
 

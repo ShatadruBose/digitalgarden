@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/micro-lex-english/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:50.555+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/micro-lex-english/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:58.011+05:30"}
 ---
 
 # MicroLex English (MLE)
