@@ -89,7 +89,7 @@
 
 ### 🪑 Modern Yoga
 
-#### [[3 Minute Relaxing Chair Yoga\|3 Minute Relaxing Chair Yoga]]
+#### [[Library/Habits/Yoga/3 Minute Relaxing Chair Yoga\|3 Minute Relaxing Chair Yoga]]
 - Duration: 2 min 41 sec
 - Calories Burned: 13.4 kcal
 
