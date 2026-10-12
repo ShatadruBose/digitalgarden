@@ -12,26 +12,6 @@
             text-decoration: none; 
             color: var(--text-normal); 
             transition: transform 0.2s;
-            border: none;" href="Apps/Weather.md" class="internal-link" target="_blank" rel="noopener nofollow">
-            <img style="width: 64px; 
-                height: 64px; 
-                border-radius: 14px; 
-                object-fit: cover; 
-                margin-bottom: 8px; 
-                box-shadow: 0 4px 8px rgba(0,0,0,0.15); 
-                background-color: transparent;" alt="Weather" src="https://raw.githubusercontent.com/ShatadruBose/apps/refs/heads/main/icons/weather.png" referrerpolicy="no-referrer">
-            <span style="font-size: 0.85em; 
-                text-align: center; 
-                line-height: 1.2; 
-                font-weight: 500;">Weather</span>
-        </a>
-    
-        <a style="display: flex; 
-            flex-direction: column; 
-            align-items: center; 
-            text-decoration: none; 
-            color: var(--text-normal); 
-            transition: transform 0.2s;
             border: none;" href="Apps/Search.md" class="internal-link" target="_blank" rel="noopener nofollow">
             <img style="width: 64px; 
                 height: 64px; 
@@ -44,6 +24,26 @@
                 text-align: center; 
                 line-height: 1.2; 
                 font-weight: 500;">Search</span>
+        </a>
+    
+        <a style="display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            text-decoration: none; 
+            color: var(--text-normal); 
+            transition: transform 0.2s;
+            border: none;" href="Apps/Weather.md" class="internal-link" target="_blank" rel="noopener nofollow">
+            <img style="width: 64px; 
+                height: 64px; 
+                border-radius: 14px; 
+                object-fit: cover; 
+                margin-bottom: 8px; 
+                box-shadow: 0 4px 8px rgba(0,0,0,0.15); 
+                background-color: transparent;" alt="Weather" src="https://raw.githubusercontent.com/ShatadruBose/apps/refs/heads/main/icons/weather.png" referrerpolicy="no-referrer">
+            <span style="font-size: 0.85em; 
+                text-align: center; 
+                line-height: 1.2; 
+                font-weight: 500;">Weather</span>
         </a>
     
         <a style="display: flex; 
