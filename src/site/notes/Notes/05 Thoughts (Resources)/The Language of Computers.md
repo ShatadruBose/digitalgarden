@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-language-of-computers/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:15.371+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-language-of-computers/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:15.379+05:30"}
 ---
 
 # The Language of Computers
