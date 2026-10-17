@@ -1,5 +1,5 @@
 ---
-{"title":"On Wheels — The Transformation of Everything into a Mobile Experience","dg-publish":true,"dg-home":null,"aliases":["On Wheels","Everything on Wheels","The On Wheels Concept","Mobile Everything","Wheels-Based Services","The Mobile Civilization","Services on Wheels"],"tags":["on-wheels","mobility","innovation","transportation","mobile-services","entrepreneurship","future-of-living","urban-planning","technology","business-models","convenience","lifestyle","education","healthcare","tourism","smart-cities","nomadic-infrastructure","distributed-services"],"permalink":"/notes/05-thoughts-resources/on-wheels-the-transformation-of-everything-into-a-mobile-experience/","dgPassFrontmatter":true,"updated":"2026-10-16T19:12:05.542+05:30"}
+{"title":"On Wheels — The Transformation of Everything into a Mobile Experience","dg-publish":true,"dg-home":null,"aliases":["On Wheels","Everything on Wheels","The On Wheels Concept","Mobile Everything","Wheels-Based Services","The Mobile Civilization","Services on Wheels"],"tags":["on-wheels","mobility","innovation","transportation","mobile-services","entrepreneurship","future-of-living","urban-planning","technology","business-models","convenience","lifestyle","education","healthcare","tourism","smart-cities","nomadic-infrastructure","distributed-services"],"permalink":"/notes/05-thoughts-resources/on-wheels-the-transformation-of-everything-into-a-mobile-experience/","dgPassFrontmatter":true,"updated":"2026-10-17T19:33:36.550+05:30"}
 ---
 
 
@@ -5158,3 +5158,9 @@ In that future, mobility becomes more than transportation.
 It becomes a method of distributing opportunity.
 
 And that is the deeper meaning of **Everything On Wheels**.
+
+---
+
+# 178. Expansions
+
+- Palace On Wheels.
