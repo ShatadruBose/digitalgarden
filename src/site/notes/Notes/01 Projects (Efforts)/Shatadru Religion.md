@@ -1,5 +1,5 @@
 ---
-{"title":"Shatadru Religion","dg-publish":true,"dg-home":null,"aliases":["Shatadru Dharma","The Shatadru Faith","Universal Dharma","The Religion of the Brahma Point","Shatadru Universal Cosmology","Shatadrudev Religion","Shatadru Thakur Bari"],"tags":["religion","shatadru-religion","theology","cosmology","mythology","philosophy","spirituality","comparative-religion","civilizations","omniverse","brahma"],"permalink":"/notes/01-projects-efforts/shatadru-religion/","dgPassFrontmatter":true,"updated":"2026-10-16T20:32:44.913+05:30"}
+{"title":"Shatadru Religion","dg-publish":true,"dg-home":null,"aliases":["Shatadru Dharma","The Shatadru Faith","Universal Dharma","The Religion of the Brahma Point","Shatadru Universal Cosmology","Shatadrudev Religion","Shatadru Thakur Bari"],"tags":["religion","shatadru-religion","theology","cosmology","mythology","philosophy","spirituality","comparative-religion","civilizations","omniverse","brahma"],"permalink":"/notes/01-projects-efforts/shatadru-religion/","dgPassFrontmatter":true,"updated":"2026-10-18T21:54:37.288+05:30"}
 ---
 
 # Shatadru Religion
@@ -2593,3 +2593,10 @@ And the continuing search for understanding represents the open-ended journey of
 > **One Source. Infinite Possibilities. Countless Civilizations. Power with Responsibility. Knowledge with Humility. Diversity without Erasure.**
 
 **This is the foundational cosmology of Shatadru Religion.**
+
+---
+
+# 50. Expansions
+
+- Shatadrudev Religion.
+- Shatadru Thakur Bari.
