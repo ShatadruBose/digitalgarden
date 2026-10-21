@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-workflow/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:02.692+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-workflow/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:02.692+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 #### Thoughts & Ideas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/my-visas/","dgPassFrontmatter":true,"updated":"2026-10-21T11:02:43.139+05:30"}
+{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/my-visas/","dgPassFrontmatter":true,"updated":"2026-10-21T11:02:43.139+05:30","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 # India Domestic Visa Registry

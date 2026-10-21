@@ -1,597 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/statistics/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:11.776+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/statistics/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:11.776+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid regular expression: missing /
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19035:16)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>/g) || []).length / 2;
-
-    /* Wiki links */
-
-    totalLinks += (
-        content.match(/\[\[.*?\]\]/g) || []
-    ).length;
-
-    /* Images */
-
-    totalImages += (
-        content.match(/!\[.*?\]\(.*?\)/g) || []
-    ).length;
-
-    /* Newest note */
-
-    const modified = toJSDate(
-        file.stat?.mtime
-    );
-
-    const created = toJSDate(
-        file.stat?.ctime
-    );
-
-    if (
-        modified &&
-        (
-            !newestNote ||
-            modified > toJSDate(
-                newestNote.stat?.mtime
-            )
-        )
-    ) {
-        newestNote = file;
-    }
-
-    /* Oldest note */
-
-    if (
-        created &&
-        (
-            !oldestNote ||
-            created < toJSDate(
-                oldestNote.stat?.ctime
-            )
-        )
-    ) {
-        oldestNote = file;
-    }
-}
-
-/* ================================================================
-   TIME-BASED NOTE STATS
-================================================================ */
-
-let notesToday = 0;
-let notesLast7Days = 0;
-let notesLast30Days = 0;
-let notesLastYear = 0;
-
-let notesCreatedToday = 0;
-let notesModifiedToday = 0;
-
-let notesCreatedLast7Days = 0;
-let notesModifiedLast7Days = 0;
-
-let notesCreatedLast30Days = 0;
-let notesModifiedLast30Days = 0;
-
-for (const file of mdFiles) {
-
-    const created = toJSDate(
-        file.stat?.ctime
-    );
-
-    const modified = toJSDate(
-        file.stat?.mtime
-    );
-
-    if (created) {
-
-        if (isSameDay(created, now)) {
-            notesCreatedToday++;
-        }
-
-        if (daysBetween(now, created) <= 7) {
-            notesCreatedLast7Days++;
-        }
-
-        if (daysBetween(now, created) <= 30) {
-            notesCreatedLast30Days++;
-        }
-    }
-
-    if (modified) {
-
-        if (isSameDay(modified, now)) {
-            notesToday++;
-            notesModifiedToday++;
-        }
-
-        if (daysBetween(now, modified) <= 7) {
-            notesLast7Days++;
-            notesModifiedLast7Days++;
-        }
-
-        if (daysBetween(now, modified) <= 30) {
-            notesLast30Days++;
-            notesModifiedLast30Days++;
-        }
-
-        if (daysBetween(now, modified) <= 365) {
-            notesLastYear++;
-        }
-    }
-}
-
-/* ================================================================
-   TAGS / METADATA
-================================================================ */
-
-const allTags = [];
-const allAliases = [];
-
-let notesWithTags = 0;
-let notesWithoutTags = 0;
-
-let notesWithAliases = 0;
-
-let totalFrontmatterFields = 0;
-
-for (const page of pages) {
-
-    const tags = page.file?.tags || [];
-
-    if (tags.length > 0) {
-        notesWithTags++;
-
-        for (const tag of tags) {
-            allTags.push(tag);
-        }
-    } else {
-        notesWithoutTags++;
-    }
-
-    const aliases = page.file?.aliases || [];
-
-    const aliasArray = Array.isArray(aliases)
-        ? aliases
-        : [aliases];
-
-    if (aliasArray.length > 0) {
-        notesWithAliases++;
-
-        for (const alias of aliasArray) {
-            if (alias) {
-                allAliases.push(alias);
-            }
-        }
-    }
-
-    if (page.file?.frontmatter) {
-        totalFrontmatterFields +=
-            Object.keys(
-                page.file.frontmatter
-            ).length;
-    }
-}
-
-const uniqueTags = unique(allTags);
-const uniqueAliases = unique(allAliases);
-
-/* ================================================================
-   LINK STATS
-================================================================ */
-
-let incomingLinks = 0;
-let outgoingLinks = 0;
-
-const linkedNotes = new Set();
-const orphanNotes = [];
-
-for (const page of pages) {
-
-    const inlinks =
-        page.file?.inlinks?.length || 0;
-
-    const outlinks =
-        page.file?.outlinks?.length || 0;
-
-    incomingLinks += inlinks;
-    outgoingLinks += outlinks;
-
-    if (inlinks > 0 || outlinks > 0) {
-        linkedNotes.add(page.file.path);
-    }
-}
-
-for (const page of pages) {
-
-    const inlinks =
-        page.file?.inlinks?.length || 0;
-
-    const outlinks =
-        page.file?.outlinks?.length || 0;
-
-    if (inlinks === 0 && outlinks === 0) {
-        orphanNotes.push(page);
-    }
-}
-
-/* ================================================================
-   TASK STATS
-================================================================ */
-
-let totalTasks = 0;
-let completedTasks = 0;
-let incompleteTasks = 0;
-
-for (const page of pages) {
-
-    const tasks =
-        page.file?.tasks || [];
-
-    totalTasks += tasks.length;
-
-    for (const task of tasks) {
-
-        if (task.completed) {
-            completedTasks++;
-        } else {
-            incompleteTasks++;
-        }
-    }
-}
-
-const taskCompletion =
-    totalTasks
-        ? (completedTasks / totalTasks) * 100
-        : 0;
-
-/* ================================================================
-   FOLDER STATS
-================================================================ */
-
-const folderMap = new Map();
-
-for (const file of files) {
-
-    const folder = folderOf(file.path);
-
-    folderMap.set(
-        folder,
-        (folderMap.get(folder) || 0) + 1
-    );
-}
-
-const largestFolder =
-    [...folderMap.entries()]
-        .sort((a, b) => b[1] - a[1])[0];
-
-/* ================================================================
-   FILE TYPES
-================================================================ */
-
-const extensionMap = new Map();
-
-for (const file of files) {
-
-    const extension =
-        file.extension.toLowerCase() || "none";
-
-    extensionMap.set(
-        extension,
-        (extensionMap.get(extension) || 0) + 1
-    );
-}
-
-const mostCommonExtension =
-    [...extensionMap.entries()]
-        .sort((a, b) => b[1] - a[1])[0];
-
-/* ================================================================
-   VAULT AGE
-================================================================ */
-
-let oldestDate = null;
-
-for (const file of files) {
-
-    const created = toJSDate(
-        file.stat?.ctime
-    );
-
-    if (
-        created &&
-        (
-            !oldestDate ||
-            created < oldestDate
-        )
-    ) {
-        oldestDate = created;
-    }
-}
-
-const vaultAgeDays =
-    oldestDate
-        ? daysBetween(now, oldestDate)
-        : 0;
-
-const vaultAgeYears =
-    vaultAgeDays / 365.25;
-
-/* ================================================================
-   AVERAGES
-================================================================ */
-
-const averageWords =
-    totalNotes
-        ? totalWords / totalNotes
-        : 0;
-
-const averageCharacters =
-    totalNotes
-        ? totalCharacters / totalNotes
-        : 0;
-
-const averageHeadings =
-    totalNotes
-        ? totalHeadings / totalNotes
-        : 0;
-
-const averageLinks =
-    totalNotes
-        ? totalLinks / totalNotes
-        : 0;
-
-const averageTasks =
-    totalNotes
-        ? totalTasks / totalNotes
-        : 0;
-
-/* ================================================================
-   STATS
-================================================================ */
-
-const stats = [
-
-    // VAULT
-
-    ["Vault", "🗃️", "Total Files",
-        formatNumber(totalFiles)],
-
-    ["Vault", "📝", "Markdown Notes",
-        formatNumber(totalNotes)],
-
-    ["Vault", "📎", "Attachments",
-        formatNumber(attachmentCount)],
-
-    ["Vault", "📁", "Folders",
-        formatNumber(folderCount)],
-
-    ["Vault", "💾", "Vault Size",
-        formatBytes(totalSize)],
-
-    ["Vault", "📊", "Average File Size",
-        formatBytes(averageFileSize)],
-
-    ["Vault", "🗂️", "Largest File",
-        largestFile
-            ? formatBytes(largestFile.stat.size)
-            : "—"],
-
-    ["Vault", "📄", "Smallest File",
-        smallestFile
-            ? formatBytes(smallestFile.stat.size)
-            : "—"],
-
-    ["Vault", "📆", "Vault Age",
-        `${vaultAgeYears.toFixed(1)} years`],
-
-    ["Vault", "📅", "Vault Age",
-        `${formatNumber(vaultAgeDays)} days`],
-
-    // NOTES
-
-    ["Notes", "📖", "Non-Empty Notes",
-        formatNumber(nonEmptyNotes)],
-
-    ["Notes", "⬜", "Empty Notes",
-        formatNumber(emptyNotes)],
-
-    ["Notes", "📈", "Non-Empty %",
-        percent(nonEmptyNotes, totalNotes)],
-
-    ["Notes", "📉", "Empty %",
-        percent(emptyNotes, totalNotes)],
-
-    ["Notes", "🆕", "Created Today",
-        formatNumber(notesCreatedToday)],
-
-    ["Notes", "✏️", "Modified Today",
-        formatNumber(notesModifiedToday)],
-
-    ["Notes", "🗓️", "Created — 7 Days",
-        formatNumber(notesCreatedLast7Days)],
-
-    ["Notes", "📝", "Modified — 7 Days",
-        formatNumber(notesModifiedLast7Days)],
-
-    ["Notes", "🗓️", "Created — 30 Days",
-        formatNumber(notesCreatedLast30Days)],
-
-    ["Notes", "📝", "Modified — 30 Days",
-        formatNumber(notesModifiedLast30Days)],
-
-    ["Notes", "📅", "Modified — 1 Year",
-        formatNumber(notesLastYear)],
-
-    ["Notes", "📌", "Newest Note",
-        newestNote
-            ? newestNote.name
-            : "—"],
-
-    ["Notes", "🏛️", "Oldest Note",
-        oldestNote
-            ? oldestNote.name
-            : "—"],
-
-    // CONTENT
-
-    ["Content", "🔤", "Total Words",
-        formatNumber(Math.round(totalWords))],
-
-    ["Content", "🔡", "Characters",
-        formatNumber(totalCharacters)],
-
-    ["Content", "🔠", "Characters — No Spaces",
-        formatNumber(totalCharactersNoSpaces)],
-
-    ["Content", "📜", "Total Lines",
-        formatNumber(totalLines)],
-
-    ["Content", "📚", "Total Headings",
-        formatNumber(totalHeadings)],
-
-    ["Content", "💻", "Code Blocks",
-        formatNumber(Math.round(totalCodeBlocks))],
-
-    ["Content", "🔗", "Wiki Links",
-        formatNumber(totalLinks)],
-
-    ["Content", "🖼️", "Markdown Images",
-        formatNumber(totalImages)],
-
-    ["Content", "📖", "Average Words / Note",
-        formatNumber(Math.round(averageWords))],
-
-    ["Content", "🔤", "Average Characters / Note",
-        formatNumber(Math.round(averageCharacters))],
-
-    ["Content", "📚", "Average Headings / Note",
-        averageHeadings.toFixed(1)],
-
-    ["Content", "🔗", "Average Links / Note",
-        averageLinks.toFixed(1)],
-
-    // LINKS
-
-    ["Links", "↙️", "Incoming Links",
-        formatNumber(incomingLinks)],
-
-    ["Links", "↗️", "Outgoing Links",
-        formatNumber(outgoingLinks)],
-
-    ["Links", "🕸️", "Linked Notes",
-        formatNumber(linkedNotes.size)],
-
-    ["Links", "🔗", "Linked %",
-        percent(linkedNotes.size, totalNotes)],
-
-    ["Links", "👻", "Orphan Notes",
-        formatNumber(orphanNotes.length)],
-
-    ["Links", "👻", "Orphan %",
-        percent(orphanNotes.length, totalNotes)],
-
-    // TAGS
-
-    ["Tags", "#️⃣", "Unique Tags",
-        formatNumber(uniqueTags.length)],
-
-    ["Tags", "🏷️", "Tag Assignments",
-        formatNumber(allTags.length)],
-
-    ["Tags", "📌", "Tagged Notes",
-        formatNumber(notesWithTags)],
-
-    ["Tags", "📍", "Untagged Notes",
-        formatNumber(notesWithoutTags)],
-
-    ["Tags", "📊", "Tagged %",
-        percent(notesWithTags, totalNotes)],
-
-    ["Tags", "🏷️", "Unique Aliases",
-        formatNumber(uniqueAliases.length)],
-
-    ["Tags", "🔖", "Notes With Aliases",
-        formatNumber(notesWithAliases)],
-
-    // TASKS
-
-    ["Tasks", "☑️", "Total Tasks",
-        formatNumber(totalTasks)],
-
-    ["Tasks", "✅", "Completed Tasks",
-        formatNumber(completedTasks)],
-
-    ["Tasks", "⬜", "Incomplete Tasks",
-        formatNumber(incompleteTasks)],
-
-    ["Tasks", "📊", "Completion Rate",
-        `${taskCompletion.toFixed(1)}%`],
-
-    ["Tasks", "📋", "Average Tasks / Note",
-        averageTasks.toFixed(1)],
-
-    // STRUCTURE
-
-    ["Structure", "📁", "Largest Folder",
-        largestFolder
-            ? largestFolder[0]
-            : "—"],
-
-    ["Structure", "📦", "Files In Largest Folder",
-        largestFolder
-            ? formatNumber(largestFolder[1])
-            : "0"],
-
-    ["Structure", "🧩", "File Types",
-        formatNumber(extensionMap.size)],
-
-    ["Structure", "📄", "Most Common Type",
-        mostCommonExtension
-            ? `.${mostCommonExtension[0]}`
-            : "—"],
-
-    ["Structure", "📊", "Most Common Type Count",
-        mostCommonExtension
-            ? formatNumber(mostCommonExtension[1])
-            : "0"],
-
-    // METADATA
-
-    ["Metadata", "🧾", "Frontmatter Fields",
-        formatNumber(totalFrontmatterFields)],
-
-    ["Metadata", "🏷️", "Unique Tags",
-        formatNumber(uniqueTags.length)],
-
-    // SYSTEM
-
-    ["System", "⚡", "Scan Time",
-        `${(performance.now() - startTime).toFixed(0)} ms`],
-
-    ["System", "🧠", "Pages Indexed",
-        formatNumber(pages.length)]
-];
-
-/* ================================================================
-   STYLING
-================================================================ */
-
-const root = dv.container;
-
-root.innerHTML = "";
-
-const style = document.createElement("style");
-
-style.textContent = `
+<style>
 .vault-stats-wrapper {
     width: 100%;
     font-family: var(--font-interface);
@@ -834,25 +245,7 @@ style.textContent = `
         padding: 12px;
     }
 }
-`;
-
-root.appendChild(style);
-
-/* ================================================================
-   DASHBOARD HEADER
-================================================================ */
-
-const wrapper = document.createElement("div");
-
-wrapper.className =
-    "vault-stats-wrapper";
-
-const header = document.createElement("div");
-
-header.className =
-    "vault-stats-header";
-
-header.innerHTML = `
+</style><div class="vault-stats-wrapper"><div class="vault-stats-header">
     <div>
 
         <div class="vault-stats-title">
@@ -860,72 +253,21 @@ header.innerHTML = `
         </div>
 
         <div class="vault-stats-subtitle">
-            ${formatNumber(stats.length)}
+            62
             statistics •
-            ${formatNumber(totalNotes)}
+            1,453
             notes •
-            ${formatBytes(totalSize)}
+            1.73 GB
         </div>
 
     </div>
 
     <div class="vault-stats-total">
-        ${formatNumber(stats.length)}
+        62
     </div>
-`;
-
-wrapper.appendChild(header);
-
-/* ================================================================
-   GROUP STATS
-================================================================ */
-
-const grouped = {};
-
-for (const stat of stats) {
-
-    const [
-        category,
-        icon,
-        label,
-        value
-    ] = stat;
-
-    if (!grouped[category]) {
-        grouped[category] = [];
-    }
-
-    grouped[category].push({
-        icon,
-        label,
-        value
-    });
-}
-
-/* ================================================================
-   RENDER
-================================================================ */
-
-for (
-    const [category, categoryStats]
-    of Object.entries(grouped)
-) {
-
-    const section =
-        document.createElement("section");
-
-    section.className =
-        "vault-stats-section";
-
-    const title =
-        document.createElement("div");
-
-    title.className =
-        "vault-stats-section-title";
-
-    title.innerHTML = `
+</div><section class="vault-stats-section"><div class="vault-stats-section-title">
         <span>
-            ${escapeHTML(category)}
+            Vault
         </span>
 
         <span style="
@@ -933,68 +275,850 @@ for (
             font-size: 0.75em;
             font-weight: 500;
         ">
-            ${categoryStats.length}
+            10
         </span>
-    `;
-
-    section.appendChild(title);
-
-    const grid =
-        document.createElement("div");
-
-    grid.className =
-        "vault-stats-grid";
-
-    for (const stat of categoryStats) {
-
-        const card =
-            document.createElement("div");
-
-        card.className =
-            "vault-stat-card";
-
-        card.innerHTML = `
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
             <div class="vault-stat-icon">
-                ${escapeHTML(stat.icon)}
+                🗃️
             </div>
 
             <div class="vault-stat-label">
-                ${escapeHTML(stat.label)}
+                Total Files
             </div>
 
-            <div
-                class="vault-stat-value"
-                title="${escapeHTML(stat.value)}"
-            >
-                ${escapeHTML(stat.value)}
+            <div class="vault-stat-value" title="4,652">
+                4,652
             </div>
-        `;
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📝
+            </div>
 
-        grid.appendChild(card);
-    }
+            <div class="vault-stat-label">
+                Markdown Notes
+            </div>
 
-    section.appendChild(grid);
+            <div class="vault-stat-value" title="1,453">
+                1,453
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📎
+            </div>
 
-    wrapper.appendChild(section);
-}
+            <div class="vault-stat-label">
+                Attachments
+            </div>
 
-/* ================================================================
-   FOOTER
-================================================================ */
+            <div class="vault-stat-value" title="3,199">
+                3,199
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📁
+            </div>
 
-const footer =
-    document.createElement("div");
+            <div class="vault-stat-label">
+                Folders
+            </div>
 
-footer.className =
-    "vault-stats-footer";
+            <div class="vault-stat-value" title="1,214">
+                1,214
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                💾
+            </div>
 
-footer.innerHTML = `
+            <div class="vault-stat-label">
+                Vault Size
+            </div>
+
+            <div class="vault-stat-value" title="1.73 GB">
+                1.73 GB
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📊
+            </div>
+
+            <div class="vault-stat-label">
+                Average File Size
+            </div>
+
+            <div class="vault-stat-value" title="390 KB">
+                390 KB
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🗂️
+            </div>
+
+            <div class="vault-stat-label">
+                Largest File
+            </div>
+
+            <div class="vault-stat-value" title="435 MB">
+                435 MB
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📄
+            </div>
+
+            <div class="vault-stat-label">
+                Smallest File
+            </div>
+
+            <div class="vault-stat-value" title="0 B">
+                0 B
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📆
+            </div>
+
+            <div class="vault-stat-label">
+                Vault Age
+            </div>
+
+            <div class="vault-stat-value" title="1.8 years">
+                1.8 years
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📅
+            </div>
+
+            <div class="vault-stat-label">
+                Vault Age
+            </div>
+
+            <div class="vault-stat-value" title="645 days">
+                645 days
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Notes
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            13
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📖
+            </div>
+
+            <div class="vault-stat-label">
+                Non-Empty Notes
+            </div>
+
+            <div class="vault-stat-value" title="1,417">
+                1,417
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ⬜
+            </div>
+
+            <div class="vault-stat-label">
+                Empty Notes
+            </div>
+
+            <div class="vault-stat-value" title="36">
+                36
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📈
+            </div>
+
+            <div class="vault-stat-label">
+                Non-Empty %
+            </div>
+
+            <div class="vault-stat-value" title="97.5%">
+                97.5%
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📉
+            </div>
+
+            <div class="vault-stat-label">
+                Empty %
+            </div>
+
+            <div class="vault-stat-value" title="2.5%">
+                2.5%
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🆕
+            </div>
+
+            <div class="vault-stat-label">
+                Created Today
+            </div>
+
+            <div class="vault-stat-value" title="2">
+                2
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ✏️
+            </div>
+
+            <div class="vault-stat-label">
+                Modified Today
+            </div>
+
+            <div class="vault-stat-value" title="8">
+                8
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🗓️
+            </div>
+
+            <div class="vault-stat-label">
+                Created — 7 Days
+            </div>
+
+            <div class="vault-stat-value" title="15">
+                15
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📝
+            </div>
+
+            <div class="vault-stat-label">
+                Modified — 7 Days
+            </div>
+
+            <div class="vault-stat-value" title="20">
+                20
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🗓️
+            </div>
+
+            <div class="vault-stat-label">
+                Created — 30 Days
+            </div>
+
+            <div class="vault-stat-value" title="348">
+                348
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📝
+            </div>
+
+            <div class="vault-stat-label">
+                Modified — 30 Days
+            </div>
+
+            <div class="vault-stat-value" title="532">
+                532
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📅
+            </div>
+
+            <div class="vault-stat-label">
+                Modified — 1 Year
+            </div>
+
+            <div class="vault-stat-value" title="1,174">
+                1,174
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📌
+            </div>
+
+            <div class="vault-stat-label">
+                Newest Note
+            </div>
+
+            <div class="vault-stat-value" title="幽霊文字言語.md">
+                幽霊文字言語.md
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🏛️
+            </div>
+
+            <div class="vault-stat-label">
+                Oldest Note
+            </div>
+
+            <div class="vault-stat-value" title="Note Temple.md">
+                Note Temple.md
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Content
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            12
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔤
+            </div>
+
+            <div class="vault-stat-label">
+                Total Words
+            </div>
+
+            <div class="vault-stat-value" title="1,120,507">
+                1,120,507
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔡
+            </div>
+
+            <div class="vault-stat-label">
+                Characters
+            </div>
+
+            <div class="vault-stat-value" title="7,758,326">
+                7,758,326
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔠
+            </div>
+
+            <div class="vault-stat-label">
+                Characters — No Spaces
+            </div>
+
+            <div class="vault-stat-value" title="6,342,664">
+                6,342,664
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📜
+            </div>
+
+            <div class="vault-stat-label">
+                Total Lines
+            </div>
+
+            <div class="vault-stat-value" title="361,949">
+                361,949
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📚
+            </div>
+
+            <div class="vault-stat-label">
+                Total Headings
+            </div>
+
+            <div class="vault-stat-value" title="23,941">
+                23,941
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                💻
+            </div>
+
+            <div class="vault-stat-label">
+                Code Blocks
+            </div>
+
+            <div class="vault-stat-value" title="2,850">
+                2,850
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔗
+            </div>
+
+            <div class="vault-stat-label">
+                Wiki Links
+            </div>
+
+            <div class="vault-stat-value" title="2,179">
+                2,179
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🖼️
+            </div>
+
+            <div class="vault-stat-label">
+                Markdown Images
+            </div>
+
+            <div class="vault-stat-value" title="7">
+                7
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📖
+            </div>
+
+            <div class="vault-stat-label">
+                Average Words / Note
+            </div>
+
+            <div class="vault-stat-value" title="771">
+                771
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔤
+            </div>
+
+            <div class="vault-stat-label">
+                Average Characters / Note
+            </div>
+
+            <div class="vault-stat-value" title="5,340">
+                5,340
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📚
+            </div>
+
+            <div class="vault-stat-label">
+                Average Headings / Note
+            </div>
+
+            <div class="vault-stat-value" title="16.5">
+                16.5
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔗
+            </div>
+
+            <div class="vault-stat-label">
+                Average Links / Note
+            </div>
+
+            <div class="vault-stat-value" title="1.5">
+                1.5
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Links
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            6
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ↙️
+            </div>
+
+            <div class="vault-stat-label">
+                Incoming Links
+            </div>
+
+            <div class="vault-stat-value" title="1,444">
+                1,444
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ↗️
+            </div>
+
+            <div class="vault-stat-label">
+                Outgoing Links
+            </div>
+
+            <div class="vault-stat-value" title="2,113">
+                2,113
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🕸️
+            </div>
+
+            <div class="vault-stat-label">
+                Linked Notes
+            </div>
+
+            <div class="vault-stat-value" title="537">
+                537
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔗
+            </div>
+
+            <div class="vault-stat-label">
+                Linked %
+            </div>
+
+            <div class="vault-stat-value" title="37.0%">
+                37.0%
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                👻
+            </div>
+
+            <div class="vault-stat-label">
+                Orphan Notes
+            </div>
+
+            <div class="vault-stat-value" title="916">
+                916
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                👻
+            </div>
+
+            <div class="vault-stat-label">
+                Orphan %
+            </div>
+
+            <div class="vault-stat-value" title="63.0%">
+                63.0%
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Tags
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            7
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                #️⃣
+            </div>
+
+            <div class="vault-stat-label">
+                Unique Tags
+            </div>
+
+            <div class="vault-stat-value" title="176">
+                176
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🏷️
+            </div>
+
+            <div class="vault-stat-label">
+                Tag Assignments
+            </div>
+
+            <div class="vault-stat-value" title="1,318">
+                1,318
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📌
+            </div>
+
+            <div class="vault-stat-label">
+                Tagged Notes
+            </div>
+
+            <div class="vault-stat-value" title="812">
+                812
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📍
+            </div>
+
+            <div class="vault-stat-label">
+                Untagged Notes
+            </div>
+
+            <div class="vault-stat-value" title="641">
+                641
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📊
+            </div>
+
+            <div class="vault-stat-label">
+                Tagged %
+            </div>
+
+            <div class="vault-stat-value" title="55.9%">
+                55.9%
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🏷️
+            </div>
+
+            <div class="vault-stat-label">
+                Unique Aliases
+            </div>
+
+            <div class="vault-stat-value" title="45">
+                45
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🔖
+            </div>
+
+            <div class="vault-stat-label">
+                Notes With Aliases
+            </div>
+
+            <div class="vault-stat-value" title="47">
+                47
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Tasks
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            5
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ☑️
+            </div>
+
+            <div class="vault-stat-label">
+                Total Tasks
+            </div>
+
+            <div class="vault-stat-value" title="96">
+                96
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ✅
+            </div>
+
+            <div class="vault-stat-label">
+                Completed Tasks
+            </div>
+
+            <div class="vault-stat-value" title="9">
+                9
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ⬜
+            </div>
+
+            <div class="vault-stat-label">
+                Incomplete Tasks
+            </div>
+
+            <div class="vault-stat-value" title="87">
+                87
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📊
+            </div>
+
+            <div class="vault-stat-label">
+                Completion Rate
+            </div>
+
+            <div class="vault-stat-value" title="9.4%">
+                9.4%
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📋
+            </div>
+
+            <div class="vault-stat-label">
+                Average Tasks / Note
+            </div>
+
+            <div class="vault-stat-value" title="0.1">
+                0.1
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Structure
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            5
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📁
+            </div>
+
+            <div class="vault-stat-label">
+                Largest Folder
+            </div>
+
+            <div class="vault-stat-value" title="Notes/07 Journals (Calender)/Daily Notes">
+                Notes/07 Journals (Calender)/Daily Notes
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📦
+            </div>
+
+            <div class="vault-stat-label">
+                Files In Largest Folder
+            </div>
+
+            <div class="vault-stat-value" title="500">
+                500
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🧩
+            </div>
+
+            <div class="vault-stat-label">
+                File Types
+            </div>
+
+            <div class="vault-stat-value" title="27">
+                27
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📄
+            </div>
+
+            <div class="vault-stat-label">
+                Most Common Type
+            </div>
+
+            <div class="vault-stat-value" title=".md">
+                .md
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                📊
+            </div>
+
+            <div class="vault-stat-label">
+                Most Common Type Count
+            </div>
+
+            <div class="vault-stat-value" title="1,453">
+                1,453
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            Metadata
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            2
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🧾
+            </div>
+
+            <div class="vault-stat-label">
+                Frontmatter Fields
+            </div>
+
+            <div class="vault-stat-value" title="14,155">
+                14,155
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🏷️
+            </div>
+
+            <div class="vault-stat-label">
+                Unique Tags
+            </div>
+
+            <div class="vault-stat-value" title="176">
+                176
+            </div>
+        </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
+        <span>
+            System
+        </span>
+
+        <span style="
+            color: var(--text-faint);
+            font-size: 0.75em;
+            font-weight: 500;
+        ">
+            2
+        </span>
+    </div><div class="vault-stats-grid"><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                ⚡
+            </div>
+
+            <div class="vault-stat-label">
+                Scan Time
+            </div>
+
+            <div class="vault-stat-value" title="301 ms">
+                301 ms
+            </div>
+        </div><div class="vault-stat-card">
+            <div class="vault-stat-icon">
+                🧠
+            </div>
+
+            <div class="vault-stat-label">
+                Pages Indexed
+            </div>
+
+            <div class="vault-stat-value" title="1,453">
+                1,453
+            </div>
+        </div></div></section><div class="vault-stats-footer">
     Automatically calculated from the current vault
     • Last scanned
-    ${new Date().toLocaleTimeString()}
-`;
-
-wrapper.appendChild(footer);
-
-root.appendChild(wrapper);
-```
+    18:22:37
+</div></div>

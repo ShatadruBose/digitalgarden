@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-world/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:04.562+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-world/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:04.562+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ## My Physical Space

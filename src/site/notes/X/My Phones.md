@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-phones/","dgPassFrontmatter":true,"updated":"2026-10-05T19:05:33.812+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-phones/","dgPassFrontmatter":true,"updated":"2026-10-05T19:05:33.812+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. [Open BlueStacks](file:///D:/Mount/Android/BlueStacks/BlueStacks%20X/BlueStacks%20X.exe).

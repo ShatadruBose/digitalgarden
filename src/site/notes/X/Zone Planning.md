@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/zone-planning/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:25.912+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/zone-planning/","dgPassFrontmatter":true,"updated":"2026-10-05T19:07:25.912+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 - High Resedential:

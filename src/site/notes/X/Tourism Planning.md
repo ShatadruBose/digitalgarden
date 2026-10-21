@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/tourism-planning/","dgPassFrontmatter":true,"updated":"2026-10-06T16:47:44.852+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/tourism-planning/","dgPassFrontmatter":true,"updated":"2026-10-06T16:47:44.852+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ## Tourism Item List

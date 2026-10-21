@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/my-houses/","dgPassFrontmatter":true,"updated":"2026-10-20T22:05:39.572+05:30"}
+{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/my-houses/","dgPassFrontmatter":true,"updated":"2026-10-20T22:05:39.572+05:30","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 # My Houses

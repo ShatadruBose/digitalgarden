@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/random-ideas/","dgPassFrontmatter":true,"updated":"2026-10-06T16:57:46.793+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/random-ideas/","dgPassFrontmatter":true,"updated":"2026-10-06T16:57:46.793+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. [Libron & Kindle](https://youtu.be/CYocCrrDTC4).

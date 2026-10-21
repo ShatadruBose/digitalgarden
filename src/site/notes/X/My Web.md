@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-web/","dgPassFrontmatter":true,"updated":"2026-10-05T19:03:40.777+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-web/","dgPassFrontmatter":true,"updated":"2026-10-05T19:03:40.777+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. Surface Web.
