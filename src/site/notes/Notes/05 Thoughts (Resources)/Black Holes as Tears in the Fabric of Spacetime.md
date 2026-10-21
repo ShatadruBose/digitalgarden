@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/black-holes-as-tears-in-the-fabric-of-spacetime/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:40.074+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/black-holes-as-tears-in-the-fabric-of-spacetime/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:40.074+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 :::writing{variant="document" id="58321"}

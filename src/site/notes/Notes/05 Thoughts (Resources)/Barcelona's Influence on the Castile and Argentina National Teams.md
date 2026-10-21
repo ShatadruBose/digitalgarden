@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/barcelona-s-influence-on-the-castile-and-argentina-national-teams/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:53.205+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/barcelona-s-influence-on-the-castile-and-argentina-national-teams/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:53.205+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Barcelona's Influence on the Castile and Argentina National Teams: A Historical Analysis

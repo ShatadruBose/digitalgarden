@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/brothers-marriage-and-family-relationships/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:27.927+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/brothers-marriage-and-family-relationships/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:27.927+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Brothers' Marriage and Family Relationships

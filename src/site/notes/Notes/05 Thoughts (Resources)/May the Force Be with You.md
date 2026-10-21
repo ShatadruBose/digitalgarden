@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/may-the-force-be-with-you/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:22.829+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/may-the-force-be-with-you/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:22.829+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # *"May the Force Be with You"* — The Legendary Farewell of Star Wars

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2026-04-29T08:47:21.716+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/apps/","dgPassFrontmatter":true,"updated":"2026-04-29T08:47:21.716+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # My Apps

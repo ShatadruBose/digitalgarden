@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/indigenous-intelligence-and-houses-adapted-to-nature/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:25.327+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/indigenous-intelligence-and-houses-adapted-to-nature/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:25.327+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Indigenous Intelligence and Houses Adapted to Nature

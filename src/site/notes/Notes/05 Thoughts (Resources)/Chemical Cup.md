@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/chemical-cup/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:26.869+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/chemical-cup/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:26.869+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Chemical Cup

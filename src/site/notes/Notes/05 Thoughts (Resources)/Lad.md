@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/lad/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:19.289+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/lad/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:19.289+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # **Lad: A Proposed English Equivalent of "Faltu"**

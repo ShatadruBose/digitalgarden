@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-proposed-indo-euro-latin-culinary-vocabulary/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:22.541+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-proposed-indo-euro-latin-culinary-vocabulary/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:22.541+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # A Proposed Indo-Euro-Latin Culinary Vocabulary

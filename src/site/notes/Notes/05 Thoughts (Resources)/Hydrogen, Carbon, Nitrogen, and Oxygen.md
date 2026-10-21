@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/hydrogen-carbon-nitrogen-and-oxygen/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:27.491+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/hydrogen-carbon-nitrogen-and-oxygen/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:27.491+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Hydrogen, Carbon, Nitrogen, and Oxygen
@@ -271,9 +271,7 @@ Tritium is radioactive.
 Its radioactive decay is:
 
 \[
-^3H \rightarrow
-{ #3He}
- + \beta^- + \bar{\nu}_e
+^3H \rightarrow ^3He + \beta^- + \bar{\nu}_e
 \]
 
 Hydrogen isotopes are important in:
@@ -305,9 +303,7 @@ Inside stars, hydrogen nuclei undergo **nuclear fusion**.
 A simplified representation of the net process in Sun-like stars is:
 
 \[
-4\,^1H \rightarrow
-{ #4He}
- + \text{energy}
+4\,^1H \rightarrow ^4He + \text{energy}
 \]
 
 This process powers stars.

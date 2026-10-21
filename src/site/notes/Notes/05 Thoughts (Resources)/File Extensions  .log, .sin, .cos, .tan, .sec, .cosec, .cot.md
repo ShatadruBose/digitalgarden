@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/file-extensions-log-sin-cos-tan-sec-cosec-cot/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:45.021+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/file-extensions-log-sin-cos-tan-sec-cosec-cot/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:45.021+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # File Extensions: `.log`, `.sin`, `.cos`, `.tan`, `.sec`, `.cosec`, `.cot`

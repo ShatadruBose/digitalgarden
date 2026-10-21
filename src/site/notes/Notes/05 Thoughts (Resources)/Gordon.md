@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/gordon/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:42.692+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/gordon/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:42.692+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # 🪐 Gordon — Rogue Super-Terrestrial Planet (The Gordonators' World)

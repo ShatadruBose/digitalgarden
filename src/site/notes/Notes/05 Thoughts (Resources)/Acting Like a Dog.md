@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/acting-like-a-dog/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:12.033+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/acting-like-a-dog/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:12.033+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Acting Like a Dog, Barking, and Playing Dog Sports

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-software-engineering-competition-where-developers-represent-countries-through-ai-controlled-teams/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:18.321+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-software-engineering-competition-where-developers-represent-countries-through-ai-controlled-teams/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:18.321+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Developer Nations World Cup

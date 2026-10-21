@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-warm-loving-guide-to-our-special-game-of-endless-teeth-touching-and-finger-rubbing/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:16.400+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-warm-loving-guide-to-our-special-game-of-endless-teeth-touching-and-finger-rubbing/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:16.400+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # A Warm, Loving Guide to Our Special Game of Endless Teeth-Touching and Finger Rubbing

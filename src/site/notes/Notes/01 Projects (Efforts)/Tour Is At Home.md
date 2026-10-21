@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/01-projects-efforts/tour-is-at-home/","dgPassFrontmatter":true,"updated":"2026-10-18T13:56:28.738+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/01-projects-efforts/tour-is-at-home/","dgPassFrontmatter":true,"updated":"2026-10-18T13:56:28.738+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ## Use Wallpapers

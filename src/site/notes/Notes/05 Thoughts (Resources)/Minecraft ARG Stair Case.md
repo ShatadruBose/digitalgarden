@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/minecraft-arg-stair-case/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:04.873+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/minecraft-arg-stair-case/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:04.873+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Minecraft ARG Stair Case

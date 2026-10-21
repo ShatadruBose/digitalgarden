@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Favourite Books","Go To Favourite Books"],"permalink":"/library/books/01-favourite-books/favourite-books/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:42.000+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Favourite Books","Go To Favourite Books"],"permalink":"/library/books/01-favourite-books/favourite-books/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:42.000+05:30","dg-note-properties":{"tags":null,"aliases":["Favourite Books","Go To Favourite Books"]}}
 ---
 
 | File                                                                                     | Author      | Cover                                                                                                                     | Pages | Genre | Rating |

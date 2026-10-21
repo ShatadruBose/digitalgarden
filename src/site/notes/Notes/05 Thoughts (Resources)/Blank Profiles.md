@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/blank-profiles/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:37.372+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/blank-profiles/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:37.372+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Blank Profiles: The Meaning, Psychology, Design, and Social Consequences of an Empty Digital Identity

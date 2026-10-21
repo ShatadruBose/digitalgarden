@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/drawing-an-electric-circuit-on-paper-using-graphite/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:05.427+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/drawing-an-electric-circuit-on-paper-using-graphite/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:05.427+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Drawing an Electric Circuit on Paper Using Graphite

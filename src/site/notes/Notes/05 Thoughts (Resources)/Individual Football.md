@@ -1,5 +1,5 @@
 ---
-{"title":"Individual Football","dg-publish":true,"dg-home":false,"aliases":["Individual 5v5 Football","IF5"],"tags":["football","sport","concept","elo","5v5"],"permalink":"/notes/05-thoughts-resources/individual-football/","dgPassFrontmatter":true,"updated":"2026-07-19T16:53:06.356+05:30"}
+{"title":"Individual Football","dg-publish":true,"dg-home":false,"aliases":["Individual 5v5 Football","IF5"],"tags":["football","sport","concept","elo","5v5"],"permalink":"/notes/05-thoughts-resources/individual-football/","dgPassFrontmatter":true,"updated":"2026-07-19T16:53:06.356+05:30","dg-note-properties":{"title":"Individual Football","aliases":["Individual 5v5 Football","IF5"],"tags":["football","sport","concept","elo","5v5"]}}
 ---
 
 

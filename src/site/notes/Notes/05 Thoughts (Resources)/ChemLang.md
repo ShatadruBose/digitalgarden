@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/chem-lang/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:23.123+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/chem-lang/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:23.123+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # ChemLang: A Symbolic Language for Human Communication Based on Chemistry

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/magestic-wood/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:28.363+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/magestic-wood/","dgPassFrontmatter":true,"updated":"2026-07-16T15:58:28.363+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Magestic Wood

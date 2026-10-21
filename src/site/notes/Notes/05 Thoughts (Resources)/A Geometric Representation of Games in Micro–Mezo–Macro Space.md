@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-geometric-representation-of-games-in-micro-mezo-macro-space/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:21.659+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-geometric-representation-of-games-in-micro-mezo-macro-space/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:21.659+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # A Geometric Representation of Games in Micro–Mezo–Macro Space

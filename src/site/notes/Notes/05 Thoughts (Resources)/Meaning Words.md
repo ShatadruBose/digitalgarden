@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/meaning-words/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:18.601+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/meaning-words/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:18.601+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Meaning Words: Embedding Meaning Directly Inside a Sentence

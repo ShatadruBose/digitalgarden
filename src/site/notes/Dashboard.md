@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"cssclasses":["Dashboard"],"permalink":"/dashboard/","dgPassFrontmatter":true,"updated":"2025-05-13T15:02:48.972+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"cssclasses":["Dashboard"],"permalink":"/dashboard/","dgPassFrontmatter":true,"updated":"2025-05-13T15:02:48.972+05:30","dg-note-properties":{"tags":null,"aliases":null,"cssclasses":["Dashboard"]}}
 ---
 
 <div class="title" style="color:white">DASHBOARD</div>

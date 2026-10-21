@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/financial-unintentional-show-off/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:41.979+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/financial-unintentional-show-off/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:41.979+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Financial Unintentional Show-Off: Psychological, Social, Educational, And Developmental Effects On Children Experiencing Poverty

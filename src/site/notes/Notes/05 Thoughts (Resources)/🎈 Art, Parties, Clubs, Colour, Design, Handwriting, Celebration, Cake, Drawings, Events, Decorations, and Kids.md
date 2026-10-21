@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/art-parties-clubs-colour-design-handwriting-celebration-cake-drawings-events-decorations-and-kids/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:40.264+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/art-parties-clubs-colour-design-handwriting-celebration-cake-drawings-events-decorations-and-kids/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:40.264+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # 🎈 Art, Parties, Clubs, Colour, Design, Handwriting, Celebration, Cake, Drawings, Events, Decorations, and Kids

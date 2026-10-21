@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/antarctic-accent/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:08.043+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/antarctic-accent/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:08.043+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Antarctic Accent

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/about-me/","dgPassFrontmatter":true,"updated":"2025-05-11T16:14:28.417+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/about-me/","dgPassFrontmatter":true,"updated":"2025-05-11T16:14:28.417+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 Created: 2025-01-14 22:03

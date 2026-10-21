@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"aliases":null,"tags":["Health","Yoga","Exercise"],"permalink":"/library/habits/yoga/","dgPassFrontmatter":true,"updated":"2026-06-27T19:33:00.343+05:30"}
+{"dg-publish":true,"dg-home":false,"aliases":null,"tags":["Health","Yoga","Exercise"],"permalink":"/library/habits/yoga/","dgPassFrontmatter":true,"updated":"2026-06-27T19:33:00.343+05:30","dg-note-properties":{"aliases":null,"tags":["Health","Yoga","Exercise"]}}
 ---
 
 # 🧘 Yoga Notes

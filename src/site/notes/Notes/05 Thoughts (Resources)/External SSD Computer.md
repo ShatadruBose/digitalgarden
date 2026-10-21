@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/external-ssd-computer/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:49.106+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/external-ssd-computer/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:49.106+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 :::writing{variant="document" id="58321"}

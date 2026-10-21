@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/bonopukur/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:34.987+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/bonopukur/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:34.987+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Bonopukur: A Comprehensive Geographical, Urban, Railway, and Cultural Study

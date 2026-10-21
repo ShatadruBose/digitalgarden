@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/beyond-football/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:46.953+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/beyond-football/","dgPassFrontmatter":true,"updated":"2026-10-13T18:01:46.953+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Beyond Football: Elite Footballers and Clubs Engaging in Other Sports

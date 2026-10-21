@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-creative-concept-connecting-chickpeas-the-sun-and-the-chola-dynasty/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:03.943+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-creative-concept-connecting-chickpeas-the-sun-and-the-chola-dynasty/","dgPassFrontmatter":true,"updated":"2026-07-16T16:04:03.943+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Cholar Energy: A Creative Concept Connecting Chickpeas, the Sun, and the Chola Dynasty

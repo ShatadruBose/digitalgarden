@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/mathematical-beauty/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:27.317+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/mathematical-beauty/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:27.317+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Mathematical Beauty: The Fourfold Convergence

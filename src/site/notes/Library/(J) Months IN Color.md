@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/library/j-months-in-color/","dgPassFrontmatter":true,"updated":"2025-04-30T17:46:26.104+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/library/j-months-in-color/","dgPassFrontmatter":true,"updated":"2025-04-30T17:46:26.104+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 Created: 2025-02-18 09:11

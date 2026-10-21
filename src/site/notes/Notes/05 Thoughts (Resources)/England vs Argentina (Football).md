@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/england-vs-argentina-football/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:18.187+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/england-vs-argentina-football/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:18.187+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # England vs Argentina: History, the Falklands War, the 1986 Quarter-Final, and the 40-Year Return in the Semi-Final

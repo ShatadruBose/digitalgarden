@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/abstract-mathematics/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:14.073+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/abstract-mathematics/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:14.073+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Abstract Mathematics: The Study of Structure, Pattern, Logic, and Mathematical Ideas Beyond Concrete Objects

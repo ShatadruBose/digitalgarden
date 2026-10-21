@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/home-layout-and-beauty/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:53.395+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/home-layout-and-beauty/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:53.395+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Home Layout and Beauty: Designing a Comfortable, Functional, and Beautiful Home

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/element-of-surprise/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:54.072+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/element-of-surprise/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:54.072+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Element of Surprise (Es)

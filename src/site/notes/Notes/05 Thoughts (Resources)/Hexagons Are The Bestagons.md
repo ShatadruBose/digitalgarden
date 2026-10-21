@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/hexagons-are-the-bestagons/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:31.754+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/hexagons-are-the-bestagons/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:31.754+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Hexagons Are The Bestagons

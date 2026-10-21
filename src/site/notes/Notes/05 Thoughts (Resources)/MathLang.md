@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/math-lang/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:25.263+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/math-lang/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:25.263+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # MathLang

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/favourites-and-football-vault-note/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:27.734+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/favourites-and-football-vault-note/","dgPassFrontmatter":true,"updated":"2026-07-16T15:57:27.734+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Favourites and Football Vault Note

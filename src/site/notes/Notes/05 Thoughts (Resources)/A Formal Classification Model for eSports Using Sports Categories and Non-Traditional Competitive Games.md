@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-formal-classification-model-for-e-sports-using-sports-categories-and-non-traditional-competitive-games/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:09.817+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/a-formal-classification-model-for-e-sports-using-sports-categories-and-non-traditional-competitive-games/","dgPassFrontmatter":true,"updated":"2026-07-16T15:56:09.817+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # A Formal Classification Model for eSports Using Sports Categories and Non-Traditional Competitive Games

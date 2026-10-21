@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/equal-area-circle-partitions-and-their-connection-to-the-yin-yang-symbol/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:50.991+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/equal-area-circle-partitions-and-their-connection-to-the-yin-yang-symbol/","dgPassFrontmatter":true,"updated":"2026-10-13T18:00:50.991+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Equal-Area Circle Partitions and Their Connection to the Yin–Yang Symbol

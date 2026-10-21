@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-4-d-planck-scale-coordinate-system-for-describing-events/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:31.403+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-4-d-planck-scale-coordinate-system-for-describing-events/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:31.403+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # A 4D Planck-Scale Coordinate System for Describing Events

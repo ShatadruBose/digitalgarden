@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-custom-symbol-substitution-cipher/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:27.899+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/a-custom-symbol-substitution-cipher/","dgPassFrontmatter":true,"updated":"2026-10-13T18:02:27.899+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # A Custom Symbol Substitution Cipher
