@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/between-the-domains/","dgPassFrontmatter":true,"updated":"2026-10-05T19:06:23.966+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/between-the-domains/","dgPassFrontmatter":true,"updated":"2026-10-05T19:06:23.966+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ## Physical X Digital

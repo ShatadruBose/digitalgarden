@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":null,"tags":["journalpointer"],"permalink":"/notes/07-journals-calender/journal/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:18.888+05:30"}
+{"dg-publish":true,"dg-home":null,"aliases":null,"tags":["journalpointer"],"permalink":"/notes/07-journals-calender/journal/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:18.888+05:30","dg-note-properties":{"aliases":null,"tags":["journalpointer"],"permalink":"/notes/07-journals-calender/journal/","dgPassFrontmatter":true,"updated":"2025-05-01T11:51:21.850+05:30"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-foods/","dgPassFrontmatter":true,"updated":"2026-10-06T16:56:47.565+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-foods/","dgPassFrontmatter":true,"updated":"2026-10-06T16:56:47.565+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 - Chutney & Papad.

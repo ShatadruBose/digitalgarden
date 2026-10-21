@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore More Quotes","Quotes"],"permalink":"/notes/08-quotes-recources/quotes/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:22.633+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":["Explore More Quotes","Quotes"],"permalink":"/notes/08-quotes-recources/quotes/","dgPassFrontmatter":true,"updated":"2025-05-19T10:33:22.633+05:30","dg-note-properties":{"tags":null,"aliases":["Explore More Quotes","Quotes"],"permalink":"/notes/08-quotes-recources/quotes/","dgPassFrontmatter":true,"updated":"2025-02-19T18:20:43.000+05:30"}}
 ---
 
 

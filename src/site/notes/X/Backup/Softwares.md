@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/backup/softwares/","dgPassFrontmatter":true,"updated":"2026-10-16T21:33:01.530+05:30"}
+{"dg-publish":true,"dg-home":null,"aliases":null,"tags":null,"permalink":"/x/backup/softwares/","dgPassFrontmatter":true,"updated":"2026-10-16T21:33:01.530+05:30","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 Contains:

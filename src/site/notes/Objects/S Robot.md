@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/objects/s-robot/","dgPassFrontmatter":true,"updated":"2026-07-29T18:34:19.855+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/objects/s-robot/","dgPassFrontmatter":true,"updated":"2026-07-29T18:34:19.855+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Ultra-Flexible, Ultra-Strong Robot with S-Parameter AI

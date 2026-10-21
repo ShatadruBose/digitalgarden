@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-gamestations/","dgPassFrontmatter":true,"updated":"2026-10-05T19:05:46.886+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-gamestations/","dgPassFrontmatter":true,"updated":"2026-10-05T19:05:46.886+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. [Open PCSX2](file:///D:/Mount/CD%20DVD%20BlueRay/Emulators/PCSX2/pcsx2-qt.exe).

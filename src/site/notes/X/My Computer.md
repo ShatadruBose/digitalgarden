@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-computer/","dgPassFrontmatter":true,"updated":"2026-10-21T12:28:37.326+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-computer/","dgPassFrontmatter":true,"updated":"2026-10-21T12:28:37.326+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. Change The Power Plan.

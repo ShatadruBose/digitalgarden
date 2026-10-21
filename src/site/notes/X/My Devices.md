@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-devices/","dgPassFrontmatter":true,"updated":"2026-10-05T19:06:01.775+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/my-devices/","dgPassFrontmatter":true,"updated":"2026-10-05T19:06:01.775+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. [Open Hacking Book](file:///D:/Mount/Hacking/Server/Book/Hacking%20Book.bat).

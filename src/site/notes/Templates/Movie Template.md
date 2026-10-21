@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/templates/movie-template/","dgPassFrontmatter":true,"updated":"2025-01-15T15:57:34.170+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/templates/movie-template/","dgPassFrontmatter":true,"updated":"2025-01-15T15:57:34.170+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 poster: {{VALUE:Poster}}

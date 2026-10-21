@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/beach-ideas/","dgPassFrontmatter":true,"updated":"2026-10-08T09:43:25.937+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/x/beach-ideas/","dgPassFrontmatter":true,"updated":"2026-10-08T09:43:25.937+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 1. Swim & Bath.
