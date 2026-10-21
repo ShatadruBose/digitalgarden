@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/why-a-2-1-scoreline-is-often-the-best-prediction-when-both-teams-are-strong/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:01.287+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/why-a-2-1-scoreline-is-often-the-best-prediction-when-both-teams-are-strong/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:01.287+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Why a 2–1 Scoreline Is Often the Best Prediction When Both Teams Are Strong

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/what-if-argentina-and-portugal-had-been-drawn-into-the-same-group-at-the-2022-fifa-world-cup/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:13.761+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/what-if-argentina-and-portugal-had-been-drawn-into-the-same-group-at-the-2022-fifa-world-cup/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:13.761+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # What If Argentina and Portugal Had Been Drawn Into the Same Group at the 2022 FIFA World Cup?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/when-writing-an-exam-paper-seems-to-make-it-rain/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:06.232+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/when-writing-an-exam-paper-seems-to-make-it-rain/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:06.232+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # When Writing an Exam Paper Seems to Make It Rain

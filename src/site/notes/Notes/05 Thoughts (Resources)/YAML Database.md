@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/yaml-database/","dgPassFrontmatter":true,"updated":"2026-10-13T18:11:40.412+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/yaml-database/","dgPassFrontmatter":true,"updated":"2026-10-13T18:11:40.412+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # YAML Database

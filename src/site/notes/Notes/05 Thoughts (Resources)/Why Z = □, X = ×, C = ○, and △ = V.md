@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/why-z-x-c-and-v/","dgPassFrontmatter":true,"updated":"2026-10-13T18:13:53.537+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/why-z-x-c-and-v/","dgPassFrontmatter":true,"updated":"2026-10-13T18:13:53.537+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ## Why Z = □, X = ×, C = ○, and △ = V????

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/vajra-gada/","dgPassFrontmatter":true,"updated":"2026-03-30T08:56:07.119+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/vajra-gada/","dgPassFrontmatter":true,"updated":"2026-03-30T08:56:07.119+05:30","dg-note-properties":{}}
 ---
 
 

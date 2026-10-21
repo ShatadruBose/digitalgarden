@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/when-minecraft-blocks-become-real-files/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:10.599+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/when-minecraft-blocks-become-real-files/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:10.599+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # When Minecraft Blocks Become Real Files
