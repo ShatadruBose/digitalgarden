@@ -255,7 +255,7 @@
         <div class="vault-stats-subtitle">
             62
             statistics •
-            1,453
+            1,454
             notes •
             1.73 GB
         </div>
@@ -286,8 +286,8 @@
                 Total Files
             </div>
 
-            <div class="vault-stat-value" title="4,652">
-                4,652
+            <div class="vault-stat-value" title="4,653">
+                4,653
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -298,8 +298,8 @@
                 Markdown Notes
             </div>
 
-            <div class="vault-stat-value" title="1,453">
-                1,453
+            <div class="vault-stat-value" title="1,454">
+                1,454
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -418,8 +418,8 @@
                 Non-Empty Notes
             </div>
 
-            <div class="vault-stat-value" title="1,417">
-                1,417
+            <div class="vault-stat-value" title="1,418">
+                1,418
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -466,8 +466,8 @@
                 Created Today
             </div>
 
-            <div class="vault-stat-value" title="2">
-                2
+            <div class="vault-stat-value" title="3">
+                3
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -478,8 +478,8 @@
                 Modified Today
             </div>
 
-            <div class="vault-stat-value" title="8">
-                8
+            <div class="vault-stat-value" title="9">
+                9
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -490,8 +490,8 @@
                 Created — 7 Days
             </div>
 
-            <div class="vault-stat-value" title="15">
-                15
+            <div class="vault-stat-value" title="16">
+                16
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -502,8 +502,8 @@
                 Modified — 7 Days
             </div>
 
-            <div class="vault-stat-value" title="20">
-                20
+            <div class="vault-stat-value" title="21">
+                21
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -514,8 +514,8 @@
                 Created — 30 Days
             </div>
 
-            <div class="vault-stat-value" title="348">
-                348
+            <div class="vault-stat-value" title="345">
+                345
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -538,8 +538,8 @@
                 Modified — 1 Year
             </div>
 
-            <div class="vault-stat-value" title="1,174">
-                1,174
+            <div class="vault-stat-value" title="1,175">
+                1,175
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -550,8 +550,8 @@
                 Newest Note
             </div>
 
-            <div class="vault-stat-value" title="Writing an Autobiography of an Object.md">
-                Writing an Autobiography of an Object.md
+            <div class="vault-stat-value" title="Illusions.md">
+                Illusions.md
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -586,8 +586,8 @@
                 Total Words
             </div>
 
-            <div class="vault-stat-value" title="1,120,507">
-                1,120,507
+            <div class="vault-stat-value" title="1,120,520">
+                1,120,520
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -598,8 +598,8 @@
                 Characters
             </div>
 
-            <div class="vault-stat-value" title="7,758,322">
-                7,758,322
+            <div class="vault-stat-value" title="7,758,429">
+                7,758,429
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -610,8 +610,8 @@
                 Characters — No Spaces
             </div>
 
-            <div class="vault-stat-value" title="6,342,660">
-                6,342,660
+            <div class="vault-stat-value" title="6,342,753">
+                6,342,753
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -622,8 +622,8 @@
                 Total Lines
             </div>
 
-            <div class="vault-stat-value" title="361,949">
-                361,949
+            <div class="vault-stat-value" title="361,960">
+                361,960
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -634,8 +634,8 @@
                 Total Headings
             </div>
 
-            <div class="vault-stat-value" title="23,941">
-                23,941
+            <div class="vault-stat-value" title="23,943">
+                23,943
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -694,8 +694,8 @@
                 Average Characters / Note
             </div>
 
-            <div class="vault-stat-value" title="5,340">
-                5,340
+            <div class="vault-stat-value" title="5,336">
+                5,336
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -778,8 +778,8 @@
                 Linked %
             </div>
 
-            <div class="vault-stat-value" title="37.0%">
-                37.0%
+            <div class="vault-stat-value" title="36.9%">
+                36.9%
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -790,8 +790,8 @@
                 Orphan Notes
             </div>
 
-            <div class="vault-stat-value" title="916">
-                916
+            <div class="vault-stat-value" title="917">
+                917
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -802,8 +802,8 @@
                 Orphan %
             </div>
 
-            <div class="vault-stat-value" title="63.0%">
-                63.0%
+            <div class="vault-stat-value" title="63.1%">
+                63.1%
             </div>
         </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
         <span>
@@ -862,8 +862,8 @@
                 Untagged Notes
             </div>
 
-            <div class="vault-stat-value" title="641">
-                641
+            <div class="vault-stat-value" title="642">
+                642
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -874,8 +874,8 @@
                 Tagged %
             </div>
 
-            <div class="vault-stat-value" title="55.9%">
-                55.9%
+            <div class="vault-stat-value" title="55.8%">
+                55.8%
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -1042,8 +1042,8 @@
                 Most Common Type Count
             </div>
 
-            <div class="vault-stat-value" title="1,453">
-                1,453
+            <div class="vault-stat-value" title="1,454">
+                1,454
             </div>
         </div></div></section><section class="vault-stats-section"><div class="vault-stats-section-title">
         <span>
@@ -1066,8 +1066,8 @@
                 Frontmatter Fields
             </div>
 
-            <div class="vault-stat-value" title="14,155">
-                14,155
+            <div class="vault-stat-value" title="14,159">
+                14,159
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -1102,8 +1102,8 @@
                 Scan Time
             </div>
 
-            <div class="vault-stat-value" title="228 ms">
-                228 ms
+            <div class="vault-stat-value" title="273 ms">
+                273 ms
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -1114,11 +1114,11 @@
                 Pages Indexed
             </div>
 
-            <div class="vault-stat-value" title="1,453">
-                1,453
+            <div class="vault-stat-value" title="1,454">
+                1,454
             </div>
         </div></div></section><div class="vault-stats-footer">
     Automatically calculated from the current vault
     • Last scanned
-    18:33:04
+    22:21:20
 </div></div>
