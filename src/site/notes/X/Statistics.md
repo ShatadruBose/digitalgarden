@@ -550,8 +550,8 @@
                 Newest Note
             </div>
 
-            <div class="vault-stat-value" title="幽霊文字言語.md">
-                幽霊文字言語.md
+            <div class="vault-stat-value" title="Writing an Autobiography of an Object.md">
+                Writing an Autobiography of an Object.md
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -598,8 +598,8 @@
                 Characters
             </div>
 
-            <div class="vault-stat-value" title="7,758,326">
-                7,758,326
+            <div class="vault-stat-value" title="7,758,322">
+                7,758,322
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -610,8 +610,8 @@
                 Characters — No Spaces
             </div>
 
-            <div class="vault-stat-value" title="6,342,664">
-                6,342,664
+            <div class="vault-stat-value" title="6,342,660">
+                6,342,660
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -1102,8 +1102,8 @@
                 Scan Time
             </div>
 
-            <div class="vault-stat-value" title="301 ms">
-                301 ms
+            <div class="vault-stat-value" title="228 ms">
+                228 ms
             </div>
         </div><div class="vault-stat-card">
             <div class="vault-stat-icon">
@@ -1120,5 +1120,5 @@
         </div></div></section><div class="vault-stats-footer">
     Automatically calculated from the current vault
     • Last scanned
-    18:22:37
+    18:33:04
 </div></div>
