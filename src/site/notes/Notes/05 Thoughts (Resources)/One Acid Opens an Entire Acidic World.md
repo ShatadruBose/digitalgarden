@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/one-acid-opens-an-entire-acidic-world/","dgPassFrontmatter":true,"updated":"2026-10-13T17:58:55.119+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/one-acid-opens-an-entire-acidic-world/","dgPassFrontmatter":true,"updated":"2026-10-13T17:58:55.119+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # One Acid Opens an Entire Acidic World

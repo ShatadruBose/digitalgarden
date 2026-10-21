@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sodor-football/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:09.107+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/sodor-football/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:09.107+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Sodor Football: An Isolated Game on a Railway Island
 
-![Watch This Video](https://youtu.be/gQhc_RSVkcw?si=p0OPr8NhmeuKyjKc)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/gQhc_RSVkcw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sodor football is a study in contradiction. On paper, the island of Sodor should have been fertile ground for association football: it was industrial, populous in key districts, connected by transport links, and located close to the great footballing heartlands of north-west England. In practice, however, football on Sodor developed slowly, remained secondary to other local priorities, and struggled for recognition beyond the island. The reason was not a lack of people or ambition, but a combination of geography, transport fragility, institutional isolation, and the island’s overwhelming obsession with railways.
 

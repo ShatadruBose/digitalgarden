@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/n-as-a-base-infinity-symbol/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:52.201+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/n-as-a-base-infinity-symbol/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:52.201+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # N as a Base-Infinity Symbol: A Discussion of Scaled Infinities

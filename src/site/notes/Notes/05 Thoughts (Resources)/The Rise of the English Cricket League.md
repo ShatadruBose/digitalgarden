@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-rise-of-the-english-cricket-league/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:22.833+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-rise-of-the-english-cricket-league/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:22.833+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Rise of the English Cricket League: A New Era of Financial Power and Sporting Dominance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/non-fifa-world-cup/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:02.714+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/non-fifa-world-cup/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:02.714+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Non-FIFA World Cup: A Complete Overview

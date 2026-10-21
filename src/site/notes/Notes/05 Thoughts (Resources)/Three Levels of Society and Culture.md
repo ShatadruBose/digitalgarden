@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/three-levels-of-society-and-culture/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:33.954+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/three-levels-of-society-and-culture/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:33.954+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Three Levels of Society and Culture

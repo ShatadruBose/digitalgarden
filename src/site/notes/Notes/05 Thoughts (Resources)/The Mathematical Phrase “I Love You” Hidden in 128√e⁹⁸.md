@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-mathematical-phrase-i-love-you-hidden-in-128-e/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:59.625+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-mathematical-phrase-i-love-you-hidden-in-128-e/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:59.625+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Mathematical Phrase “I Love You” Hidden in 128√e⁹⁸⁰

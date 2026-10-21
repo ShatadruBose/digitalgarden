@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-gravitational-influence-of-a-60-kg-human-on-the-solar-system-and-distant-astronomical-objects/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:02.242+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-gravitational-influence-of-a-60-kg-human-on-the-solar-system-and-distant-astronomical-objects/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:02.242+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Gravitational Influence of a 60 kg Human on the Solar System and Distant Astronomical Objects

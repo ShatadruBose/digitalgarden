@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/unobtainium/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:22.445+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/unobtainium/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:22.445+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Unobtainium (Un): The Legendary Impossible Material

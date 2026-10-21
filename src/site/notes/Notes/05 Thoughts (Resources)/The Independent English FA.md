@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-independent-english-fa/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:10.705+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-independent-english-fa/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:10.705+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Independent English FA World Cup: A Hypothetical Football Alternative

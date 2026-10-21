@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/parashu-ultima/","dgPassFrontmatter":true,"updated":"2026-03-30T08:55:30.788+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/parashu-ultima/","dgPassFrontmatter":true,"updated":"2026-03-30T08:55:30.788+05:30","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/number-suffixes-numeric-type-suffixes-and-mathematical-number-annotations/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:00.350+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/number-suffixes-numeric-type-suffixes-and-mathematical-number-annotations/","dgPassFrontmatter":true,"updated":"2026-10-13T17:59:00.350+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Number Suffixes, Numeric Type Suffixes, and Mathematical Number Annotations

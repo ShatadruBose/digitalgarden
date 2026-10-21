@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-keyboard/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:55.500+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-keyboard/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:55.500+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # S Keyboard — Typewriter Computer Keyboard with 64 GB DDR5 RAM

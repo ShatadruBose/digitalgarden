@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/spear-of-dharma/","dgPassFrontmatter":true,"updated":"2026-03-30T08:57:10.776+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/spear-of-dharma/","dgPassFrontmatter":true,"updated":"2026-03-30T08:57:10.776+05:30","dg-note-properties":{}}
 ---
 
 

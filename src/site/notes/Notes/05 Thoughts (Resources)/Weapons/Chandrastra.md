@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/chandrastra/","dgPassFrontmatter":true,"updated":"2026-03-05T19:39:22.350+05:30"}
+{"dg-publish":true,"dg-home":null,"permalink":"/notes/05-thoughts-resources/weapons/chandrastra/","dgPassFrontmatter":true,"updated":"2026-03-05T19:39:22.350+05:30","dg-note-properties":{}}
 ---
 
 

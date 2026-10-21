@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-tectonic-dining-set/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:32.663+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-tectonic-dining-set/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:32.663+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Tectonic Dining Set

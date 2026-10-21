@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/paint-gun/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:52.175+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/paint-gun/","dgPassFrontmatter":true,"updated":"2026-07-16T15:59:52.175+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # Ultra Note: Paint Gun

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/shapes-game/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:54.715+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/shapes-game/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:54.715+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Shapes Game

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-menu/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:57.892+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-menu/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:57.892+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Ultra Note on the S Menu

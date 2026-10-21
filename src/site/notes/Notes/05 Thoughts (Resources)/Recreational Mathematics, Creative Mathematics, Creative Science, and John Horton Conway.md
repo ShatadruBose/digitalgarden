@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/recreational-mathematics-creative-mathematics-creative-science-and-john-horton-conway/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:40.502+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/recreational-mathematics-creative-mathematics-creative-science-and-john-horton-conway/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:40.502+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Recreational Mathematics, Creative Mathematics, Creative Science, and John Horton Conway: The Art of Thinking Without a Cage

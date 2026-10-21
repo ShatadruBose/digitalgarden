@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/shell-program/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:59.974+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/shell-program/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:59.974+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Shell Program: `shell new`

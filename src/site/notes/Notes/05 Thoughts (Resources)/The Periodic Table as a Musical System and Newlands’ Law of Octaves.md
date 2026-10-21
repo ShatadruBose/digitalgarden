@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-periodic-table-as-a-musical-system-and-newlands-law-of-octaves/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:39.179+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":["thoughts"],"permalink":"/notes/05-thoughts-resources/the-periodic-table-as-a-musical-system-and-newlands-law-of-octaves/","dgPassFrontmatter":true,"updated":"2026-07-16T16:01:39.179+05:30","dg-note-properties":{"tags":["thoughts"]}}
 ---
 
 # The Periodic Table as a Musical System and Newlands’ Law of Octaves

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/three-sentences-three-different-meanings/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:31.619+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/three-sentences-three-different-meanings/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:31.619+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Three Sentences, Three Different Meanings

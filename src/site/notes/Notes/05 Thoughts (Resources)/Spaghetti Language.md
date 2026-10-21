@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/spaghetti-language/","dgPassFrontmatter":true,"updated":"2026-10-13T18:11:10.863+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/spaghetti-language/","dgPassFrontmatter":true,"updated":"2026-10-13T18:11:10.863+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Spaghetti Language: Meaning, Origins, and Its Relationship with Spaghetti Code

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/real-world-applied-mathematics/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:37.764+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/real-world-applied-mathematics/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:37.764+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 :::writing{variant="document" id="58321" title="Real-World (Applied) Mathematics: A Comprehensive Study of Mathematics in the World Around Us"}
@@ -5245,7 +5245,7 @@ A simple first-order reaction may satisfy:
 leading to exponential decay:
 
 \[
-[A](Tourism%20Planning.md)=[A]_0e^{-kt}
+[[X/Tourism Planning\|A]]=[A]_0e^{-kt}
 \]
 
 This demonstrates calculus directly within chemistry.

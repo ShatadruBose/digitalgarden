@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-importance-of-0-1-2-3-4-5-6-7-8-and-9-in-mathematics-and-luck/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:06.261+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-importance-of-0-1-2-3-4-5-6-7-8-and-9-in-mathematics-and-luck/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:06.261+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 :::writing{variant="document" id="58321" title="The Importance of the Digits 0–9 in Mathematics and Luck"}

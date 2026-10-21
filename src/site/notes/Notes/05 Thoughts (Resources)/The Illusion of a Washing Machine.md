@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-illusion-of-a-washing-machine/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:04.263+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-illusion-of-a-washing-machine/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:04.263+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 :::writing{variant="document" id="58321"}

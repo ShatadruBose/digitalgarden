@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-chop-limited/","dgPassFrontmatter":true,"updated":"2026-10-13T18:15:50.490+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-chop-limited/","dgPassFrontmatter":true,"updated":"2026-10-13T18:15:50.490+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Chop Limited: A Global Bengali Food Empire

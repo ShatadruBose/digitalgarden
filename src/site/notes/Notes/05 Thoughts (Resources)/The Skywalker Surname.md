@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-skywalker-surname/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:29.075+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-skywalker-surname/","dgPassFrontmatter":true,"updated":"2026-10-13T18:17:29.075+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Skywalker Surname: A Legacy of Destiny, Family, and the Star Wars Mythos

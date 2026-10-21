@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-tv/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:05.314+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/s-tv/","dgPassFrontmatter":true,"updated":"2026-10-13T18:10:05.314+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # S TV — The Ultimate Multi-Studio Entertainment Hub

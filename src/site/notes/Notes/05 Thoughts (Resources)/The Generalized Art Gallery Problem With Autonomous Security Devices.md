@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-generalized-art-gallery-problem-with-autonomous-security-devices/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:00.088+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/the-generalized-art-gallery-problem-with-autonomous-security-devices/","dgPassFrontmatter":true,"updated":"2026-10-13T18:16:00.088+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Generalized Art Gallery Problem With Autonomous Security Devices

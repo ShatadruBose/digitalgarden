@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/order-of-arithmetic/","dgPassFrontmatter":true,"updated":"2026-10-13T17:52:13.203+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/order-of-arithmetic/","dgPassFrontmatter":true,"updated":"2026-10-13T17:52:13.203+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Order of Arithmetic (OOA)

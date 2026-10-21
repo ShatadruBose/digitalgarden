@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/theorem-of-difficulty-based-on-relativity/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:38.830+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/theorem-of-difficulty-based-on-relativity/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:38.830+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Theorem of Difficulty Based on Relativity

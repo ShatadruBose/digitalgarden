@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/orbital-fuel-station-rocket/","dgPassFrontmatter":true,"updated":"2026-10-13T17:58:52.332+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/orbital-fuel-station-rocket/","dgPassFrontmatter":true,"updated":"2026-10-13T17:58:52.332+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Orbital Fuel Station Rocket: A Permanently Attached Four-Booster Space Refueling Architecture

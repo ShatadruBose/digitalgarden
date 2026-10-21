@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/replacing-stomach-hydrochloric-acid-h-cl-with-concentrated-sulfuric-acid-h-so/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:42.432+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/replacing-stomach-hydrochloric-acid-h-cl-with-concentrated-sulfuric-acid-h-so/","dgPassFrontmatter":true,"updated":"2026-10-13T18:09:42.432+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # Hypothetical Biology: Replacing Stomach Hydrochloric Acid (HCl) with Concentrated Sulfuric Acid (H₂SO₄)

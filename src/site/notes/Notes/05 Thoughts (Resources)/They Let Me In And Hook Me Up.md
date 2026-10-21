@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/they-let-me-in-and-hook-me-up/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:36.178+05:30"}
+{"dg-publish":true,"dg-home":null,"tags":null,"aliases":null,"permalink":"/notes/05-thoughts-resources/they-let-me-in-and-hook-me-up/","dgPassFrontmatter":true,"updated":"2026-10-13T18:14:36.178+05:30","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # "They Let Me In And Hook Me Up" — Full Note
